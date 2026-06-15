@@ -1,4 +1,4 @@
-[
+const allMovies = [
     {
         "id": 1,
         "title": "Aavesham",
