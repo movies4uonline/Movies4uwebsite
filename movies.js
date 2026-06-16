@@ -19,7 +19,7 @@
     "lang": "Malayalam",
     "quality": "4K ULTRA HD"
    }
-];
+]
 
 
 
