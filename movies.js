@@ -18,7 +18,7 @@
     "year": "2024",
     "lang": "Malayalam",
     "quality": "4K ULTRA HD"
-  },
+   }
 ]
 
 
