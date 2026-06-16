@@ -78,7 +78,39 @@
     "year": "2024",
     "lang": "Tamil",
     "quality": "4K ULTRA HD"
-   }
+   },
+  {
+    "title": "Asianet",
+    "link": "http://217.20.112.199/asianet/index.m3u8",
+    "img": "",
+    "year": "LIVE",
+    "lang": "Channel",
+    "rating": "HD"
+  },
+  {
+    "title": "Mazhavil",
+    "link": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8",
+    "img": "",
+    "year": "LIVE",
+    "lang": "Channel",
+    "rating": "HD"
+  },
+  {
+    "title": "Flowers",
+    "link": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8",
+    "img": "",
+    "year": "LIVE",
+    "lang": "Channel",
+    "rating": "HD"
+  },
+  {
+    "title": "18+",
+    "link": "#",
+    "img": "",
+    "year": "LIVE",
+    "lang": "Channel",
+    "rating": "HD"
+  }
 ]
 
 
