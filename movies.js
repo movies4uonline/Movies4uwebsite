@@ -1,8 +1,19 @@
 [
   {
+    "title": "Drishyam",
+    "img": "drishyam",
+    "year": "2026",
+    "lang": "Malayalam",
+    "rating": "4.4",
+    "link1080": "",
+    "link720": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6w9qgTDdltfks1rkJc9CgSPlMzy2AaK5C0B/Drishyam%203%20(2026)%20Malayalam%20HQ%20HDRip%20-%20720p%20-%20x264%20-%20(DD%2B5.1%20-%20192Kbps%20%26%20AAC%202.0)%20-%201.4GB%20-%20ESub.mkv",
+    "link480": "",
+    "telegram": ""
+  },
+  {
     "title": "Karuppu",
     "img": "karuppu",
-    "year": "2024",
+    "year": "2026",
     "lang": "Malayalam",
     "rating": "4.4",
     "link1080": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6w9qgTylHAuk2h3E3oOurkrNWP9HHXS6NTR/Karuppu%20(2026)%20Malayalam%20TRUE%20WEB-DL%20-%201080p%20-%20AVC%20-%20UNTOUCHED%20-%20(DD%2B5.1%20-%20192Kbps)%20-%202.3GB%20-%20ESub.mkv",
