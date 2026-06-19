@@ -1,7 +1,7 @@
 [
   {
     "title": "Athiradi",
-    "img": "https://image.tmdb.org/t/p/original/e6A1VClc7MOkPcEefg8DsErfsKT.jpg",
+    "img": "athiradi",
     "year": "2026",
     "lang": "Malayalam",
     "rating": "7.7",
