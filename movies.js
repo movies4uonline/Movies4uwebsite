@@ -1,7 +1,7 @@
 [
   {
-    "title": "Drishyam",
-    "img": "drishyam",
+    "title": "Drishyam 3",
+    "img": "drishyam3",
     "year": "2026",
     "lang": "Malayalam",
     "rating": "4.4",
