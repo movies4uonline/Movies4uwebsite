@@ -7,7 +7,7 @@
     "rating": "7.7",
     "link1080": "",
     "link720": "",
-    "link480": "",
+    "link480": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6w9qBDe19So4b6SCW5BVGRSaOz2BDDK7WXM/Athiradi%20(2026)%20Malayalam%20HQ%20HDRip%20-%20x264%20-%20AAC%20-%20400MB%20-%20ESub.mkv",
     "telegram": ""
   },
   {
