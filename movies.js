@@ -1,5 +1,16 @@
 [
   {
+    "title": "Athiradi",
+    "img": "athiradi.jpg",
+    "year": "2026",
+    "lang": "Malayalam",
+    "rating": "7.7",
+    "link1080": "",
+    "link720": "",
+    "link480": "",
+    "telegram": ""
+  },
+  {
     "title": "Drishyam 3",
     "img": "drishyam3",
     "year": "2026",
