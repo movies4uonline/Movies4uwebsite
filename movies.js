@@ -1,5 +1,19 @@
 [
   {
+    "title": "Gu",
+    "img": "gu",
+    "year": "2024",
+    "lang": "Malayalam",
+    "rating": "0.0",
+    "link1080": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6w9qrgt34CccwrlPaxykTExBbfaLsJrGFey/Gu%20(2024)%20Malayalam%20HQ%20HDRip%20-%201080p%20-%20x264%20-%20(DD%2B5.1%20-%20384Kbps%20%26%20AAC%202.0)%20-%202.8GB%20-%20ESub.mkv",
+    "size1080": "2.8GB",
+    "link720": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6w9qrgobqJrc6GY8uKdd47FzN1NTbkCkcUA/Gu%20(2024)%20Malayalam%20HQ%20HDRip%20-%20720p%20-%20x264%20-%20(DD5.1%20-%20192Kbps%20%26%20AAC%202.0)%20-%201.4GB%20-%20ESub.mkv",
+    "size720": "1.4GB",
+    "link480": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6w9qBDljCHwzNJs9WMCCrbGlkmpFxQxPm5b/Gu%20(2024)%20Malayalam%20HQ%20HDRip%20-%20x264%20-%20AAC%20-%20400MB%20-%20ESub.mkv",
+    "size480": "400MB",
+    "telegram": ""
+  },
+  {
     "title": "Athiradi",
     "img": "athiradi",
     "year": "2026",
