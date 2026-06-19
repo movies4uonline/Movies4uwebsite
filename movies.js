@@ -6,8 +6,11 @@
     "lang": "Malayalam",
     "rating": "7.7",
     "link1080": "https://watchmovies4u.movies4uu.workers.dev/dl/1h9zhDkXTnMinD9NV93H2hUx33M7Lhx5Ho5x9oUjldlra24kNdOTB12rswnp5BJneRNbHzvNAJTn/Athiradi%20(2026)%20Malayalam%20HQ%20HDRip%20-%201080p%20-%20x264%20-%20(DD%2B5.1%20ATMOS%20-%20448Kbps%20%26%20AAC%202.0)%20-%203.2GB%20-%20ESub.mkv",
+    "size1080": "3.2GB",
     "link720": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6w9qBDiSNL94ARgjBSX3woKf3J44lKLYYEm/Athiradi%20(2026)%20Malayalam%20HQ%20HDRip%20-%20720p%20-%20x264%20-%20(DD%2B5.1%20-%20256Kbps%20%26%20AAC%202.0)%20-%201.6GB%20-%20ESub.mkv",
+    "size720": "1.6GB",
     "link480": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6w9qBDe19So4b6SCW5BVGRSaOz2BDDK7WXM/Athiradi%20(2026)%20Malayalam%20HQ%20HDRip%20-%20x264%20-%20AAC%20-%20400MB%20-%20ESub.mkv",
+    "size480": "400MB",
     "telegram": ""
   },
   {
@@ -17,8 +20,11 @@
     "lang": "Malayalam",
     "rating": "7.4",
     "link1080": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6w9qgTFEapCPETDb45PbbCKu1zOTDejUroz/Drishyam%203%20(2026)%20Malayalam%20TRUE%20WEB-DL%20-%201080p%20-%20AVC%20-%20UNTOUCHED%20-%20(DD%2B5.1%20-%20640Kbps%20%26%20AAC%202.0)%20-%202.5GB%20-%20ESub.mkv",
+    "size1080": "2.5GB",
     "link720": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6w9qgTDdltfks1rkJc9CgSPlMzy2AaK5C0B/Drishyam%203%20(2026)%20Malayalam%20HQ%20HDRip%20-%20720p%20-%20x264%20-%20(DD%2B5.1%20-%20192Kbps%20%26%20AAC%202.0)%20-%201.4GB%20-%20ESub.mkv",
+    "size720": "1.4GB",
     "link480": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6w9qgTAMwwRPf9fuoiu3m5SIWnP44E43j7s/Drishyam%203%20(2026)%20Malayalam%20HQ%20HDRip%20-%20x264%20-%20AAC%20-%20400MB%20-%20ESub.mkv",
+    "size480": "400MB",
     "telegram": ""
   },
   {
