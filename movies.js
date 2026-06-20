@@ -33,7 +33,7 @@
     "year": "2026",
     "lang": "Malayalam",
     "rating": "7.4",
-    "link1080": "https://cdn.jsdelivr.net/gh/movies4uonline/Movies4u-Streams@main/pathinettam%20padi/index.m3u8",
+    "link1080": "https://cdn.jsdelivr.net/gh/movies4uonline/Movies4u-Streams@main/pathinettampadi/index.m3u8",
     "size1080": "2.5GB",
     "link720": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6w9qgTDdltfks1rkJc9CgSPlMzy2AaK5C0B/Drishyam%203%20(2026)%20Malayalam%20HQ%20HDRip%20-%20720p%20-%20x264%20-%20(DD%2B5.1%20-%20192Kbps%20%26%20AAC%202.0)%20-%201.4GB%20-%20ESub.mkv",
     "size720": "1.4GB",
