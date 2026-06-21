@@ -5,7 +5,7 @@
     "year": "2024",
     "lang": "Malayalam",
     "rating": "0.0",
-    "link_online": "https://vz-a24dd004-c2e.b-cdn.net/ed4447bf-6d23-4fa8-adc4-27cd0758a83f/playlist.m3u8",
+    "link_online": "https://player.mediadelivery.net/play/688329/ed4447bf-6d23-4fa8-adc4-27cd0758a83f",
     "link1080": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6w9qrgt34CccwrlPaxykTExBbfaLsJrGFey/Gu%20(2024)%20Malayalam%20HQ%20HDRip%20-%201080p%20-%20x264%20-%20(DD%2B5.1%20-%20384Kbps%20%26%20AAC%202.0)%20-%202.8GB%20-%20ESub.mkv",
     "size1080": "2.8GB",
     "link720": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6w9qrgobqJrc6GY8uKdd47FzN1NTbkCkcUA/Gu%20(2024)%20Malayalam%20HQ%20HDRip%20-%20720p%20-%20x264%20-%20(DD5.1%20-%20192Kbps%20%26%20AAC%202.0)%20-%201.4GB%20-%20ESub.mkv",
