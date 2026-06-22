@@ -10,7 +10,7 @@
     "size1080": "2.8GB",
     "link720": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6w9qrgobqJrc6GY8uKdd47FzN1NTbkCkcUA/Gu%20(2024)%20Malayalam%20HQ%20HDRip%20-%20720p%20-%20x264%20-%20(DD5.1%20-%20192Kbps%20%26%20AAC%202.0)%20-%201.4GB%20-%20ESub.mkv",
     "size720": "1.4GB",
-    "link480": "https://vz-a24dd004-c2e.b-cdn.net/ed4447bf-6d23-4fa8-adc4-27cd0758a83f/playlist.m3u8",
+    "link480": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6w9qBDljCHwzNJs9WMCCrbGlkmpFxQxPm5b/Gu%20(2024)%20Malayalam%20HQ%20HDRip%20-%20x264%20-%20AAC%20-%20400MB%20-%20ESub.mkv",
     "size480": "400MB",
     "telegram": ""
   },
@@ -34,7 +34,7 @@
     "year": "2026",
     "lang": "Malayalam",
     "rating": "7.4",
-    "link1080": "https://cdn.jsdelivr.net/gh/movies4uonline/Movies4u-Streams@main/pathinettampadi/index.m3u8",
+    "link1080": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6w9qgTFEapCPETDb45PbbCKu1zOTDejUroz/Drishyam%203%20(2026)%20Malayalam%20TRUE%20WEB-DL%20-%201080p%20-%20AVC%20-%20UNTOUCHED%20-%20(DD%2B5.1%20-%20640Kbps%20%26%20AAC%202.0)%20-%202.5GB%20-%20ESub.mkv",
     "size1080": "2.5GB",
     "link720": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6w9qgTDdltfks1rkJc9CgSPlMzy2AaK5C0B/Drishyam%203%20(2026)%20Malayalam%20HQ%20HDRip%20-%20720p%20-%20x264%20-%20(DD%2B5.1%20-%20192Kbps%20%26%20AAC%202.0)%20-%201.4GB%20-%20ESub.mkv",
     "size720": "1.4GB",
