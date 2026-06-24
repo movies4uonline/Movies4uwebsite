@@ -2,7 +2,7 @@
   const allMovies = [
     {
         "title": "Blast",
-        "img": "Blast",
+        "img": "blast",
         "year": "2026",
         "lang": "Malayalam",
         "rating": "9.0",
