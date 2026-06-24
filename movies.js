@@ -1,5 +1,4 @@
-[
-  const allMovies = [
+ const allMovies = [
     {
         "title": "Blast",
         "img": "blast",
@@ -34,8 +33,7 @@
         "ext_size480": "650 MB",
 
         "telegram": "https://t.me/your_channel",
-    }
-];
+    },
   {
     "title": "Gu (2024) Malayalam HDRip",
     "year": "2024",
