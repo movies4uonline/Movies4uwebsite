@@ -6,31 +6,31 @@
         "lang": "Malayalam",
         "rating": "7.8",
         
-        // --- Player & In-App Download (Shared) ---
-        "link1080": "https://server1.com/1080p.mp4",
-        "name1080": "1080p Ultra HD", 
-        "size1080": "2.4 GB",
         
-        "link720": "https://server1.com/720p.mp4",
-        "name720": "720p HD Quality",
-        "size720": "1.1 GB",
+        "link1080": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6w9qhdL8QvIxYprnDP3vXmng3hbcxDCdkLo/Blast%20(2026)%20Malayalam%20TRUE%20WEB-DL%20-%201080p%20-%20AVC%20-%20UNTOUCHED%20-%20(DD%2B5.1%20-%20192Kbps)%20-%202.2GB%20-%20ESub.mkv",
+        "name1080": "Blast (2026) Malayalam TRUE WEB-DL - 1080p - AVC - UNTOUCHED - (DD+5.1 - 192Kbps) - 2.2GB - ESub", 
+        "size1080": "2.2 GB",
         
-        "link480": "https://server1.com/480p.mp4",
-        "name480": "480p Standard",
-        "size480": "600 MB",
+        "link720": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6w9qhdGhcCXxyF3GY1Io7PvyuVrW3myjONo/Blast%20(2026)%20Malayalam%20HQ%20HDRip%20-%20720p%20-%20x264%20-%20(DD%2B5.1%20-%20192Kbps)%20-%201.5GB%20-%20ESub.mkv",
+        "name720": "Blast (2026) Malayalam HQ HDRip - 720p - x264 - (DD+5.1 - 192Kbps) - 1.5GB - ESub",
+        "size720": "1.5 GB",
+        
+        "link480": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6w9qhdII1zl2LxfxiVnX2zqNtC0cF6OWCFh/Blast%20(2026)%20Malaylam%20HQ%20HDRip%20-%20x264%20-%20AAC%20-%20400MB%20-%20ESub.mkv",
+        "name480": "Blast (2026) Malaylam HQ HDRip - x264 - AAC - 400MB - ESub",
+        "size480": "400 MB",
 
-        // --- External Browser Download (Separate) ---
-        "ext_link1080": "https://external.com/dl1080",
-        "ext_name1080": "Download 1080p [Fast]",
-        "ext_size1080": "2.5 GB",
         
-        "ext_link720": "https://external.com/dl720",
-        "ext_name720": "Download 720p [Stable]",
-        "ext_size720": "1.2 GB",
+        "ext_link1080": "https://lcuapi.onlinewatch.workers.dev/api/fdl/AgAD2S4786793",
+        "ext_name1080": "Blast (2026) Malayalam TRUE WEB-DL - 1080p - AVC - UNTOUCHED - (DD+5.1 - 192Kbps) - 2.2GB - ESub",
+        "ext_size1080": "2.2 GB",
         
-        "ext_link480": "https://external.com/dl480",
-        "ext_name480": "Download 480p [Low]",
-        "ext_size480": "650 MB",
+        "ext_link720": "https://lcuapi.onlinewatch.workers.dev/api/fdl/AgAD1y4786791",
+        "ext_name720": "Blast (2026) Malayalam HQ HDRip - 720p - x264 - (DD+5.1 - 192Kbps) - 1.5GB - ESub",
+        "ext_size720": "1.5 GB",
+        
+        "ext_link480": "https://lcuapi.onlinewatch.workers.dev/api/fdl/AgADyS4786790",
+        "ext_name480": "Blast (2026) Malaylam HQ HDRip - x264 - AAC - 400MB - ESub",
+        "ext_size480": "400 MB",
 
         "telegram": "https://t.me/your_channel",
     },
