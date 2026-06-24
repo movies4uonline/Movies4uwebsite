@@ -24,7 +24,7 @@ const allMovies = [
     "ext_name480": "Download 480p [Data Saver]",
     "ext_size480": "400 MB",
     "telegram": "https://t.me/your_channel",
-    "player_title": "Blast (2026) Malayalam Official"
+    "player_title": "Blast (2026) Malayalam HDRip"
   },
   {
     "title": "Gu (2024) Malayalam HDRip",
