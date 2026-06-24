@@ -32,7 +32,7 @@
         "ext_name480": "Blast (2026) Malaylam HQ HDRip - x264 - AAC - 400MB - ESub",
         "ext_size480": "400 MB",
 
-        "telegram": "https://t.me/your_channel",
+        "telegram": "https://t.me/your_channel"
     },
   {
     "title": "Gu (2024) Malayalam HDRip",
