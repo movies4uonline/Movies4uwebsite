@@ -1,4 +1,15 @@
-[
+ [
+  {
+    "title": "Gu (2024) Malayalam HDRip",
+    "year": "2024",
+    "lang": "Malayalam",
+    "img": "gu",
+    "link1080": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6w9qrgt34CccwrlPaxykTExBbfaLsJrGFey/Gu%20(2024)%20Malayalam%20HQ%20HDRip%20-%201080p%20-%20x264%20-%20(DD%2B5.1%20-%20384Kbps%20%26%20AAC%202.0)%20-%202.8GB%20-%20ESub.mkv",
+    "link720": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6w9qrgobqJrc6GY8uKdd47FzN1NTbkCkcUA/Gu%20(2024)%20Malayalam%20HQ%20HDRip%20-%20720p%20-%20x264%20-%20(DD5.1%20-%20192Kbps%20%26%20AAC%202.0)%20-%201.4GB%20-%20ESub.mkv",
+    "link480": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6w9qBDljCHwzNJs9WMCCrbGlkmpFxQxPm5b/Gu%20(2024)%20Malayalam%20HQ%20HDRip%20-%20x264%20-%20AAC%20-%20400MB%20-%20ESub.mkv",
+    "link_server2": "https://server2.com/video.mp4",
+    "link_dl1": "https://download-server.com/file.mp4"
+  },
   {
     "title": "Gu",
     "img": "gu",
@@ -40,7 +51,7 @@
     "size720": "1.4GB",
     "link480": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6w9qgTAMwwRPf9fuoiu3m5SIWnP44E43j7s/Drishyam%203%20(2026)%20Malayalam%20HQ%20HDRip%20-%20x264%20-%20AAC%20-%20400MB%20-%20ESub.mkv",
     "size480": "400MB",
-    "telegram": ""
+    "telegram": "",
   },
   {
     "title": "Karuppu",
