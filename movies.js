@@ -1,4 +1,41 @@
 [
+  const allMovies = [
+    {
+        "title": "Blast",
+        "img": "Blast",
+        "year": "2026",
+        "lang": "Malayalam",
+        "rating": "9.0",
+        
+        // --- Player & In-App Download (Shared) ---
+        "link1080": "https://server1.com/1080p.mp4",
+        "name1080": "1080p Ultra HD", 
+        "size1080": "2.4 GB",
+        
+        "link720": "https://server1.com/720p.mp4",
+        "name720": "720p HD Quality",
+        "size720": "1.1 GB",
+        
+        "link480": "https://server1.com/480p.mp4",
+        "name480": "480p Standard",
+        "size480": "600 MB",
+
+        // --- External Browser Download (Separate) ---
+        "ext_link1080": "https://external.com/dl1080",
+        "ext_name1080": "Download 1080p [Fast]",
+        "ext_size1080": "2.5 GB",
+        
+        "ext_link720": "https://external.com/dl720",
+        "ext_name720": "Download 720p [Stable]",
+        "ext_size720": "1.2 GB",
+        
+        "ext_link480": "https://external.com/dl480",
+        "ext_name480": "Download 480p [Low]",
+        "ext_size480": "650 MB",
+
+        "telegram": "https://t.me/your_channel",
+    }
+];
   {
     "title": "Gu (2024) Malayalam HDRip",
     "year": "2024",
