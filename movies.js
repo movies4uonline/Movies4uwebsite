@@ -4,7 +4,7 @@
         "img": "blast",
         "year": "2026",
         "lang": "Malayalam",
-        "rating": "9.0",
+        "rating": "7.8",
         
         // --- Player & In-App Download (Shared) ---
         "link1080": "https://server1.com/1080p.mp4",
