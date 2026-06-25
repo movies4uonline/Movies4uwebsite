@@ -27,7 +27,7 @@ const allMovies = [
     "player_title": "Blast (2026) Malayalam HDRip"
   },
   {
-    "title": "Gu (2024) Malayalam HDRip",
+    "title": "Gu",
     "year": "2024",
     "lang": "Malayalam",
     "img": "gu",
