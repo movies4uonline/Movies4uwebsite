@@ -1,4 +1,4 @@
-const allMovies = [
+[
   {
     "title": "Blast",
     "img": "blast",
