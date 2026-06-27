@@ -1,5 +1,4 @@
 [
-  [
   {
     "title": "Athiradi",
     "playerTitle": "Athiradi (2026) Malayalam Full Movie HD",
@@ -25,8 +24,7 @@
     "external_link480": "https://external.com/dl/480.mkv",
     
     "telegram": "https://t.me/movies4u_links/1"
-  }
-]
+  },
   {
     "title": "Asianet",
     "link1080": "http://217.20.112.199/asianet/index.m3u8",
