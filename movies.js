@@ -2,7 +2,7 @@
   {
     "title": "Revolver Rinko",
     "playerTitle": "Revolver Rinko (2026) Malayalam Full Movie HD",
-    "img": "RevolverRinko",
+    "img": "revolverrinko",
     "year": "2026",
     "lang": "Malayalam",
     "quality": "HD",
