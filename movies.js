@@ -59,5 +59,4 @@
     "lang": "Channel",
     "rating": "HD"
   }
-  https://i.ibb.co/sd4962cZ/20260518-002328.png
 ];
