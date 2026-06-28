@@ -35,7 +35,7 @@
     "rating": "8.6",
     
     // പ്ലേ ചെയ്യാനും ഇൻ-ആപ്പ് ഡൗൺലോഡിനും ഒരേ ലിങ്കുകൾ
-    "link1080": "https://lcuapi.onlinewatch.workers.dev/api/fdl/AgADuy4790461",
+    "link1080": "https://watchmovies4u.movies4uu.workers.dev/dl/1h9zhDkXTnMinD9NV93H2hUx33M7Lhx5Ho5x9oUjldlramO2Tv3aQmKshJXS5M2esTSm98jeNjby/Revolver%20Rinko%20(2026)%20Malayalam%20TRUE%20WEB-DL%20-%201080p%20-%20AVC%20-%20UNTOUCHED%20-%20(DD%2B5.1%20-%20192Kbps%20%26%20AAC%202.0)%20-%202.5GB%20-%20ESub.mkv",
     "link720": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6waOe3erCJvJvktUsW8ht1ya62cfBp0z2sa/Revolver%20Rinko%20(2026)%20Malayalam%20HQ%20HDRip%20-%20720p%20-%20x264%20-%20(DD%2B5.1%20-%20192Kbps%20%26%20AAC%202.0)%20-%201.3GB%20-%20ESub.mkv",
     "link480": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6w9qBXjvPYtMuCGPvOQgszZcSN7TbjAaIRt/Revolver%20Rinko%20(2026)%20Malayalam%20HQ%20HDRip%20-%20x264%20-%20AAC%20-%20400MB%20-%20ESub.mkv",
     
