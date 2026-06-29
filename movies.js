@@ -78,6 +78,32 @@
     "telegram": "https://t.me/M4Upremium_bot?start=BATCH-MTg4NTI"
   },
   {
+    "title": "Gu",
+    "playerTitle": "Gu (2024) Malayalam Full Movie HD",
+    "img": "gu",
+    "year": "2024",
+    "lang": "Malayalam",
+    "quality": "HD",
+    "rating": "0.0",
+    
+    // പ്ലേ ചെയ്യാനും ഇൻ-ആപ്പ് ഡൗൺലോഡിനും ഒരേ ലിങ്കുകൾ
+    "link1080": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6w9qrgt34CccwrlPaxykTExBbfaLsJrGFey/Gu%20(2024)%20Malayalam%20HQ%20HDRip%20-%201080p%20-%20x264%20-%20(DD%2B5.1%20-%20384Kbps%20%26%20AAC%202.0)%20-%202.8GB%20-%20ESub.mkv",
+    "link720": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6w9qrgobqJrc6GY8uKdd47FzN1NTbkCkcUA/Gu%20(2024)%20Malayalam%20HQ%20HDRip%20-%20720p%20-%20x264%20-%20(DD5.1%20-%20192Kbps%20%26%20AAC%202.0)%20-%201.4GB%20-%20ESub.mkv",
+    "link480": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6w9qBDljCHwzNJs9WMCCrbGlkmpFxQxPm5b/Gu%20(2024)%20Malayalam%20HQ%20HDRip%20-%20x264%20-%20AAC%20-%20400MB%20-%20ESub.mkv",
+    
+    // ഫയൽ സൈസ് (ക്വാളിറ്റി വിൻഡോയിൽ കാണിക്കാൻ)
+    "size1080": "2.7 GB",
+    "size720": "1.4 GB",
+    "size480": "400 MB",
+    
+    // എക്സ്റ്റേണൽ ബ്രൗസർ ഡൗൺലോഡിന് പ്രത്യേകം ലിങ്ക്
+    "external_link1080": "https://lcuapi.onlinewatch.workers.dev/api/fdl/AgADOy4791751",
+    "external_link720": "https://lcuapi.onlinewatch.workers.dev/api/fdl/AgADJy4791750",
+    "external_link480": "https://lcuapi.onlinewatch.workers.dev/api/fdl/AgADHi4791748",
+    
+    "telegram": "https://t.me/M4Upremium_bot?start=BATCH-MTg4NTQ"
+  },
+  {
     "title": "Asianet",
     "link1080": "http://217.20.112.199/asianet/index.m3u8",
     "img": "asianet",
