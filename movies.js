@@ -23,7 +23,7 @@
     "external_link720": "https://lcuapi.onlinewatch.workers.dev/api/fdl/AgAD1y4790467",
     "external_link480": "https://lcuapi.onlinewatch.workers.dev/api/fdl/AgADyS4790465",
     
-    "telegram": "https://t.me/Mamitha_M4U_bot?start=getfile-Blast"
+    "telegram": "https://t.me/M4Upremium_bot?start=BATCH-MTg4NTA"
   },
   {
     "title": "Revolver Rinko",
