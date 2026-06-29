@@ -49,7 +49,7 @@
     "external_link720": "https://lcuapi.onlinewatch.workers.dev/api/fdl/AgADuy4790461",
     "external_link480": "https://lcuapi.onlinewatch.workers.dev/api/fdl/AgADli4790459",
     
-    "telegram": "https://t.me/Mamitha_M4U_bot?start=getfile-Revolver%20Rinko"
+    "telegram": "https://t.me/M4Upremium_bot?start=BATCH-MTg4NDY"
   },
   {
     "title": "Asianet",
