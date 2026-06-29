@@ -106,7 +106,7 @@
   {
     "title": "Drishyam 3",
     "playerTitle": "Drishyam 3 (2026) Malayalam Full Movie HD",
-    "img": "driahyam3",
+    "img": "drishyam3",
     "year": "2026",
     "lang": "Malayalam",
     "quality": "HD",
