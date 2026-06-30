@@ -45,7 +45,7 @@
     "size480": "400 MB",
     
     // എക്സ്റ്റേണൽ ബ്രൗസർ ഡൗൺലോഡിന് പ്രത്യേകം ലിങ്ക്
-    "external_link1080": "https://lcuapi.onlinewatch.workers.dev/api/fdl/AgADuy4790461",
+    "external_link1080": "https://online.movies4uu.workers.dev/dl/AgADuy992",
     "external_link720": "https://online.movies4uu.workers.dev/dl/AgADpS991",
     "external_link480": "https://online.movies4uu.workers.dev/dl/AgADli990",
     
