@@ -1,5 +1,32 @@
 [
   {
+    "title": "Mollywood Times",
+    "playerTitle": "Mollywood Times (2026) Malayalam Full Movie HD",
+    "img": "https://image.tmdb.org/t/p/original/zUBCBtMsQ8dxnhJhhng4C8U80IU.jpg",
+    "tvLandscape": "https://i.ibb.co/B2zZ1kSf/mollywood-times-et00490973-1773205106.jpg",
+    "year": "2026",
+    "lang": "Malayalam",
+    "quality": "HD",
+    "rating": "7.4",
+    
+    // പ്ലേ ചെയ്യാനും ഇൻ-ആപ്പ് ഡൗൺലോഡിനും ഒരേ ലിങ്കുകൾ
+    "link1080": "https://online.movies4uu.workers.dev/dl/AgADCy1346",
+    "link720": "https://online.movies4uu.workers.dev/dl/AgAD6S1345",
+    "link480": "https://online.movies4uu.workers.dev/dl/AgADyy1344",
+    
+    // ഫയൽ സൈസ് (ക്വാളിറ്റി വിൻഡോയിൽ കാണിക്കാൻ)
+    "size1080": "2.3 GB",
+    "size720": "1.7 GB",
+    "size480": "400 MB",
+    
+    // എക്സ്റ്റേണൽ ബ്രൗസർ ഡൗൺലോഡിന് പ്രത്യേകം ലിങ്ക്
+    "external_link1080": "https://online.movies4uu.workers.dev/dl/AgADCy1346",
+    "external_link720": "https://online.movies4uu.workers.dev/dl/AgAD6S1345",
+    "external_link480": "https://online.movies4uu.workers.dev/dl/AgADyy1344",
+    
+    "telegram": "https://t.me/M4Upremium_bot?start=BATCH-"
+  },
+  {
     "title": "Karakkam",
     "playerTitle": "Karakkam (2026) Malayalam Full Movie HD",
     "img": "https://image.tmdb.org/t/p/original/8ZHPJbRtYUmsUqnFXuWDvLMJxvy.jpg",
