@@ -1,5 +1,32 @@
 [
   {
+    "title": "Karakkam",
+    "playerTitle": "Karakkam (2026) Malayalam Full Movie HD",
+    "img": "https://image.tmdb.org/t/p/original/8ZHPJbRtYUmsUqnFXuWDvLMJxvy.jpg",
+    "tvLandscape": "https://i.ibb.co/sdDWfR6x/et00499204-dldjaxcsft-landscape.jpg"
+    "year": "2026",
+    "lang": "Malayalam",
+    "quality": "HD",
+    "rating": "9.0",
+    
+    // പ്ലേ ചെയ്യാനും ഇൻ-ആപ്പ് ഡൗൺലോഡിനും ഒരേ ലിങ്കുകൾ
+    "link1080": "https://online.movies4uu.workers.dev/dl/AgADki1339",
+    "link720": "https://online.movies4uu.workers.dev/dl/AgADiy1332",
+    "link480": "https://online.movies4uu.workers.dev/dl/AgADfi1331",
+    
+    // ഫയൽ സൈസ് (ക്വാളിറ്റി വിൻഡോയിൽ കാണിക്കാൻ)
+    "size1080": "2.5 GB",
+    "size720": "1.2 GB",
+    "size480": "400 MB",
+    
+    // എക്സ്റ്റേണൽ ബ്രൗസർ ഡൗൺലോഡിന് പ്രത്യേകം ലിങ്ക്
+    "external_link1080": "https://online.movies4uu.workers.dev/dl/AgADki1339",
+    "external_link720": "https://online.movies4uu.workers.dev/dl/AgADiy1332",
+    "external_link480": "https://online.movies4uu.workers.dev/dl/AgADfi1331",
+    
+    "telegram": "https://t.me/M4Upremium_bot?start=BATCH-MTg4ODM"
+  },
+  {
     "title": "Obsession",
     "playerTitle": "Obsession (2026) English Full Movie HD",
     "img": "https://image.tmdb.org/t/p/original/7Var7KpENv7M2hcXsRV0ZoD8aYV.jpg",
