@@ -3,7 +3,7 @@
     "title": "Karakkam",
     "playerTitle": "Karakkam (2026) Malayalam Full Movie HD",
     "img": "https://image.tmdb.org/t/p/original/8ZHPJbRtYUmsUqnFXuWDvLMJxvy.jpg",
-    "tvLandscape": "https://i.ibb.co/sdDWfR6x/et00499204-dldjaxcsft-landscape.jpg"
+    "tvLandscape": "https://i.ibb.co/sdDWfR6x/et00499204-dldjaxcsft-landscape.jpg",
     "year": "2026",
     "lang": "Malayalam",
     "quality": "HD",
