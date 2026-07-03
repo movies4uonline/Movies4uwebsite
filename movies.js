@@ -37,9 +37,9 @@
     "rating": "9.0",
     
     // പ്ലേ ചെയ്യാനും ഇൻ-ആപ്പ് ഡൗൺലോഡിനും ഒരേ ലിങ്കുകൾ
-    "link1080": "https://online.movies4uu.workers.dev/dl/AgADki1339",
-    "link720": "https://online.movies4uu.workers.dev/dl/AgADiy1332",
-    "link480": "https://online.movies4uu.workers.dev/dl/AgADfi1331",
+    "link1080": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6waOedm3BFjB4PLHqB5zGptR3yCMLYC7Y4C/Karakkam%20(2026)%20Malayalam%20HQ%20HDRip%20-%201080p%20-%20x264%20-%20(DD%2B5.1%20ATMOS%20-%20448Kbps%20%26%20AAC%202.0)%20-%202.5GB%20-%20ESub.mkv",
+    "link720": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6waNTtDXkr2lJ7KSd0Czw6CwZFdtiaTrOCJ/Karakkam%20(2026)%20Malayalam%20HQ%20HDRip%20-%20720p%20-%20x264%20-%20(DD%2B5.1%20-%20192Kbps%20%26%20AAC%202.0)%20-%201.2GB%20-%20ESub.mkv",
+    "link480": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6waNTtGo9npQVZWIxUi8qS3mlxoRmEV3bnT/Karakkam%20(2026)%20Malayalam%20HQ%20HDRip%20-%20x264%20-%20AAC%20-%20400MB%20-%20ESub.mkv",
     
     // ഫയൽ സൈസ് (ക്വാളിറ്റി വിൻഡോയിൽ കാണിക്കാൻ)
     "size1080": "2.5 GB",
