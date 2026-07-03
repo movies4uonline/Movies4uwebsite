@@ -24,7 +24,7 @@
     "external_link720": "https://online.movies4uu.workers.dev/dl/AgAD6S1345",
     "external_link480": "https://online.movies4uu.workers.dev/dl/AgADyy1344",
     
-    "telegram": "https://t.me/M4Upremium_bot?start=BATCH-"
+    "telegram": "https://t.me/M4Upremium_bot?start=BATCH-MTg4ODU"
   },
   {
     "title": "Karakkam",
