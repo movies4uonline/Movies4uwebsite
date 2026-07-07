@@ -1,5 +1,32 @@
 [
   {
+    "title": "The Furious",
+    "playerTitle": "The Furious (2026) English Full Movie HD",
+    "img": "https://image.tmdb.org/t/p/original/tm4bOtNftS5jB1Ilss0MCRqOth6.jpg",
+    "tvLandscape": "https://i.ibb.co/d4pnZz3v/et00501983-scfgxpktsq-landscape.jpg",
+    "year": "2026",
+    "lang": "English",
+    "quality": "HD",
+    "rating": "7.2",
+    
+    // പ്ലേ ചെയ്യാനും ഇൻ-ആപ്പ് ഡൗൺലോഡിനും ഒരേ ലിങ്കുകൾ
+    "link1080": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6waO4awQUJHqUbhITbA3ZP117r1KOQtGfDL/The%20Furious%20(2026)%20English%20HQ%20HDRip%20-%201080p%20-%20x264%20-%20(DD%2B5.1%20-%20640Kbps%20%26%20AAC%202.0)%20-%202.3GB.mkv",
+    "link720": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6waOextZ6HMOBdLKldZtmT1MEGjvF0BMczz/The%20Furious%20(2026)%20English%20HQ%20HDRip%20-%20720p%20-%20x264%20-%20(DD%2B5.1%20-%20192Kbps%20%26%20AAC%202.0)%20-%201.1GB.mkv",
+    
+    
+    // ഫയൽ സൈസ് (ക്വാളിറ്റി വിൻഡോയിൽ കാണിക്കാൻ)
+    "size1080": "2.3 GB",
+    "size720": "1.1 GB",
+    
+    
+    // എക്സ്റ്റേണൽ ബ്രൗസർ ഡൗൺലോഡിന് പ്രത്യേകം ലിങ്ക്
+    "external_link1080": "https://online.movies4uu.workers.dev/dl/AgADeR1922",
+    "external_link720": "https://online.movies4uu.workers.dev/dl/AgADfR1921",
+    
+    
+    "telegram": "https://t.me/M4Upremium_bot?start=BATCH-MTg4OTM"
+  },
+  {
     "title": "Mollywood Times",
     "playerTitle": "Mollywood Times (2026) Malayalam Full Movie HD",
     "img": "https://image.tmdb.org/t/p/original/zUBCBtMsQ8dxnhJhhng4C8U80IU.jpg",
