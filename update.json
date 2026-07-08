@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "updateUrl": "YOUR_APK_LINK_HERE",
-  "message": "New movies are now available! Please update the app to enjoy.",
-  "forceUpdate": false
+  "versionCode": 4,
+  "updateUrl": "https://online.movies4uu.workers.dev/dl/AgADHh2056",
+  "message": "New version are now available! Please update the app to enjoy.",
+  "forceUpdate": true
 }
