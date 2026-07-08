@@ -1,5 +1,32 @@
 [
   {
+    "title": "Chand Mera Dil",
+    "playerTitle": "Chand Mera Dil (2026) Hindi Full Movie HD",
+    "img": "https://image.tmdb.org/t/p/original/3gXnELsL9QrZLxeP95OvJBeK1Uk.jpg",
+    "tvLandscape": "https://i.ibb.co/1JbhS68J/et00484700-lkrquybdxg-landscape.jpg",
+    "year": "2026",
+    "lang": "Hindi",
+    "quality": "HD",
+    "rating": "7.5",
+    
+    // പ്ലേ ചെയ്യാനും ഇൻ-ആപ്പ് ഡൗൺലോഡിനും ഒരേ ലിങ്കുകൾ
+    "link1080": "https://online.movies4uu.workers.dev/dl/AgADnB1927",
+    "link720": "https://online.movies4uu.workers.dev/dl/AgADmR1924",
+    "link480": "https://online.movies4uu.workers.dev/dl/AgADhx1923",
+    
+    // ഫയൽ സൈസ് (ക്വാളിറ്റി വിൻഡോയിൽ കാണിക്കാൻ)
+    "size1080": "2.9 GB",
+    "size720": "1.6 GB",
+    "size480": "400 MB",
+    
+    // എക്സ്റ്റേണൽ ബ്രൗസർ ഡൗൺലോഡിന് പ്രത്യേകം ലിങ്ക്
+    "external_link1080": "https://online.movies4uu.workers.dev/dl/AgADnB1927",
+    "external_link720": "https://online.movies4uu.workers.dev/dl/AgADmR1924",
+    "external_link480": "https://online.movies4uu.workers.dev/dl/AgADhx1923",
+    
+    "telegram": "https://t.me/M4Upremium_bot?start=BATCH-"
+  },
+  {
     "title": "The Furious",
     "playerTitle": "The Furious (2026) English Full Movie HD",
     "img": "https://image.tmdb.org/t/p/original/tm4bOtNftS5jB1Ilss0MCRqOth6.jpg",
