@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
+  "versionCode": 5,
   "updateUrl": "YOUR_APK_LINK_HERE",
   "message": "New movies are now available! Please update the app to enjoy.",
-  "forceUpdate": false
+  "forceUpdate": true
 }
