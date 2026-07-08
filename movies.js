@@ -24,7 +24,7 @@
     "external_link720": "https://online.movies4uu.workers.dev/dl/AgADmR1924",
     "external_link480": "https://online.movies4uu.workers.dev/dl/AgADhx1923",
     
-    "telegram": "https://t.me/M4Upremium_bot?start=BATCH-"
+    "telegram": "https://t.me/M4Upremium_bot?start=BATCH-MTg4OTk"
   },
   {
     "title": "The Furious",
