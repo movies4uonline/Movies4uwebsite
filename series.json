@@ -1,1 +1,23 @@
-
+[
+  {
+    "title": "Series Name",
+    "img": "https://poster_url.jpg",
+    "tvLandscape": "https://landscape_url.jpg",
+    "year": "2024",
+    "lang": "Malayalam",
+    "rating": "9.0",
+    "description": "",
+    "episodes": [
+      {
+        "name": "Episode 1",
+        "url1080": "https://...",
+        "url720": "https://...",
+        "extUrl720": "https://external_link..."
+      },
+      {
+        "name": "Episode 2",
+        "url720": "https://..."
+      }
+    ]
+  }
+]
