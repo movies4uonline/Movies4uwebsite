@@ -10,9 +10,9 @@
     "rating": "5.9",
     
     // പ്ലേ ചെയ്യാനും ഇൻ-ആപ്പ് ഡൗൺലോഡിനും ഒരേ ലിങ്കുകൾ
-    "link1080": "https://online.movies4uu.workers.dev/dl/AgAD7x2083",
-    "link720": "https://online.movies4uu.workers.dev/dl/AgAD5h2082",
-    "link480": "https://online.movies4uu.workers.dev/dl/AgADYy2060",
+    "link1080": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6wa7pLk9GByYSXNKzh4I8kZWoJV31LbASRT/Peddi%20(2026)%20Malayalam%20TRUE%20WEB-DL%20-%201080p%20-%20AVC%20-%20UNTOUCHED%20-%20(DD%2B5.1%20-%20640Kbps%20%26%20AAC%202.0)%20-%203.5GB%20-%20ESub.mkv",
+    "link720": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6wa7pLhIRFbtG5BUenp9dzyX7DhLJtXUAnf/Peddi%20(2026)%20Malayalam%20HQ%20HDRip%20-%20720p%20-%20x264%20-%20(DD%2B5.1%20-%20192Kbps%20%26%20AAC%202.0)%20-%201.7GB%20-%20ESub.mkv",
+    "link480": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6wa7pLcRdMqtgledyA41o1bs7D1FZ45Llt3/Peddi%20(2026)%20Malayalam%20HQ%20HDRip%20-%20x264%20-%20AAC%20-%20550MB%20-%20ESub.mkv",
     "subtitleUrl": "",
     // ഫയൽ സൈസ് (ക്വാളിറ്റി വിൻഡോയിൽ കാണിക്കാൻ)
     "size1080": "3.5 GB",
@@ -37,9 +37,9 @@
     "rating": "7.5",
     
     // പ്ലേ ചെയ്യാനും ഇൻ-ആപ്പ് ഡൗൺലോഡിനും ഒരേ ലിങ്കുകൾ
-    "link1080": "https://online.movies4uu.workers.dev/dl/AgADnB1927",
-    "link720": "https://online.movies4uu.workers.dev/dl/AgADmR1924",
-    "link480": "https://online.movies4uu.workers.dev/dl/AgADhx1923",
+    "link1080": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6wa751zCAqUeknB50MW93fcltLGsFhX1FbX/Chand%20Mera%20Dil%20(2026)%20Hindi%20HQ%20HDRip%20-%201080p%20-%20x264%20-%20(DD5.1%20-%20384Kbps%20%26%20AAC%202.0)%20-%202.9GB%20-%20ESub.mkv",
+    "link720": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6wa751EuejFeK7YLGAhgSM3RFB4jg4CSIx3/Chand%20Mera%20Dil%20(2026)%20Hindi%20HQ%20HDRip%20-%20720p%20-%20x264%20-%20(DD5.1%20-%20192Kbps%20%26%20AAC%202.0)%20-%201.6GB%20-%20ESub.mkv",
+    "link480": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6waO4aBIyCsrjVFpyYVbPlSByk0Od1WvGcL/Chand%20Mera%20Dil%20(2026)%20Hindi%20HQ%20HDRip%20-%20x264%20-%20AAC%20-%20400MB%20-%20ESub.mkv",
     
     // ഫയൽ സൈസ് (ക്വാളിറ്റി വിൻഡോയിൽ കാണിക്കാൻ)
     "size1080": "2.9 GB",
