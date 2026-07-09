@@ -225,4 +225,4 @@
     "lang": "Channel",
     "rating": "HD"
   }
-]
+];
