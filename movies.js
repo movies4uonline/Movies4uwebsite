@@ -16,7 +16,7 @@
     "subtitles": [
     {"lang": "English", "url": ""},
     {"lang": "Malayalam", "url": ""}
-  ]
+  ],
     // ഫയൽ സൈസ് (ക്വാളിറ്റി വിൻഡോയിൽ കാണിക്കാൻ)
     "size1080": "3.5 GB",
     "size720": "1.7 GB",
