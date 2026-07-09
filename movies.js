@@ -55,7 +55,7 @@
     "size720": "1.1 GB",
     "external_link1080": "https://online.movies4uu.workers.dev/dl/AgADeR1922",
     "external_link720": "https://online.movies4uu.workers.dev/dl/AgADfR1921",
-    "telegram": "https://t.me/M4Upremium_bot?start=BATCH-MTg4OT3"
+    "telegram": "https://t.me/M4Upremium_bot?start=BATCH-MTg4OTM"
   },
   {
     "title": "Mollywood Times",
@@ -225,4 +225,4 @@
     "lang": "Channel",
     "rating": "HD"
   }
-];
+]
