@@ -1,5 +1,32 @@
 [
   {
+    "title": "Peddi",
+    "playerTitle": "Peddi (2026) Malayalam Full Movie HD",
+    "img": "https://image.tmdb.org/t/p/original/41kgZiFIsLzwLt7qDJ8HlUhCtW9.jpg",
+    "tvLandscape": "https://i.ibb.co/v46pZ1Sz/et00439772-lnsupprtgs-landscape.jpg",
+    "year": "2026",
+    "lang": "Malayalam",
+    "quality": "HD",
+    "rating": "5.9",
+    
+    // പ്ലേ ചെയ്യാനും ഇൻ-ആപ്പ് ഡൗൺലോഡിനും ഒരേ ലിങ്കുകൾ
+    "link1080": "https://online.movies4uu.workers.dev/dl/AgAD7x2083",
+    "link720": "https://online.movies4uu.workers.dev/dl/AgAD5h2082",
+    "link480": "https://online.movies4uu.workers.dev/dl/AgADYy2060",
+    "subtitleUrl": "",
+    // ഫയൽ സൈസ് (ക്വാളിറ്റി വിൻഡോയിൽ കാണിക്കാൻ)
+    "size1080": "3.5 GB",
+    "size720": "1.7 GB",
+    "size480": "550 MB",
+    
+    // എക്സ്റ്റേണൽ ബ്രൗസർ ഡൗൺലോഡിന് പ്രത്യേകം ലിങ്ക്
+    "external_link1080": "https://online.movies4uu.workers.dev/dl/AgAD7x2083",
+    "external_link720": "https://online.movies4uu.workers.dev/dl/AgAD5h2082",
+    "external_link480": "https://online.movies4uu.workers.dev/dl/AgADYy2060",
+    
+    "telegram": "https://t.me/M4Upremium_bot?start=BATCH-MTg5MDI"
+  },
+  {
     "title": "Chand Mera Dil",
     "playerTitle": "Chand Mera Dil (2026) Hindi Full Movie HD",
     "img": "https://image.tmdb.org/t/p/original/3gXnELsL9QrZLxeP95OvJBeK1Uk.jpg",
