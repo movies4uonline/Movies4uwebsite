@@ -11,7 +11,6 @@
     "link1080": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6wa7pLk9GByYSXNKzh4I8kZWoJV31LbASRT/Peddi%20(2026)%20Malayalam%20TRUE%20WEB-DL%20-%201080p%20-%20AVC%20-%20UNTOUCHED%20-%20(DD%2B5.1%20-%20640Kbps%20%26%20AAC%202.0)%20-%203.5GB%20-%20ESub.mkv",
     "link720": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6wa7pLhIRFbtG5BUenp9dzyX7DhLJtXUAnf/Peddi%20(2026)%20Malayalam%20HQ%20HDRip%20-%20720p%20-%20x264%20-%20(DD%2B5.1%20-%20192Kbps%20%26%20AAC%202.0)%20-%201.7GB%20-%20ESub.mkv",
     "link480": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6wa7pLcRdMqtgledyA41o1bs7D1FZ45Llt3/Peddi%20(2026)%20Malayalam%20HQ%20HDRip%20-%20x264%20-%20AAC%20-%20550MB%20-%20ESub.mkv",
-    "subtitles": [],
     "size1080": "3.5 GB",
     "size720": "1.7 GB",
     "size480": "550 MB",
