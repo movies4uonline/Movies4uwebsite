@@ -1,23 +1,30 @@
 [
   {
-    "title": "Series Name",
-    "img": "https://poster_url.jpg",
-    "tvLandscape": "https://landscape_url.jpg",
-    "year": "2024",
+    "title": "Jocker",
+    "img": "https://image.tmdb.org/t/p/original/hYt9mS7InHjC2AnqiOpeO9I176Y.jpg",
+    "tvLandscape": "https://image.tmdb.org/t/p/original/n696v99Z7Xp6J5nO1M1Y8Zf7m5Y.jpg",
+    "year": "2026",
     "lang": "Malayalam",
-    "rating": "9.0",
+    "rating": "9.2",
     "description": "",
     "episodes": [
       {
-        "name": "Episode 1",
-        "url1080": "https://...",
-        "url720": "https://...",
-        "extUrl720": "https://external_link..."
+        "name": "S01E01",
+        "url1080": "https://your_video_link_1080p_1",
+        "url720": "https://your_video_link_720p_1",
+        "extUrl720": "https://external_download_link_1"
       },
       {
-        "name": "Episode 2",
-        "url720": "https://..."
+        "name": "S01E02",
+        "url1080": "https://your_video_link_1080p_2",
+        "url720": "https://your_video_link_720p_2",
+        "extUrl720": "https://external_download_link_2"
+      },
+      {
+        "name": "S01E03",
+        "url720": "https://your_video_link_720p_3"
       }
     ]
   }
 ]
+
