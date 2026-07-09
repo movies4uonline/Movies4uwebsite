@@ -64,8 +64,8 @@
     "rating": "7.2",
     
     // പ്ലേ ചെയ്യാനും ഇൻ-ആപ്പ് ഡൗൺലോഡിനും ഒരേ ലിങ്കുകൾ
-    "link1080": "https://online.movies4uu.workers.dev/dl/AgADeR1922",
-    "link720": "https://online.movies4uu.workers.dev/dl/AgADfR1921",
+    "link1080": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6waO4awQUJHqUbhITbA3ZP117r1KOQtGfDL/The%20Furious%20(2026)%20English%20HQ%20HDRip%20-%201080p%20-%20x264%20-%20(DD%2B5.1%20-%20640Kbps%20%26%20AAC%202.0)%20-%202.3GB.mkv",
+    "link720": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6waOextZ6HMOBdLKldZtmT1MEGjvF0BMczz/The%20Furious%20(2026)%20English%20HQ%20HDRip%20-%20720p%20-%20x264%20-%20(DD%2B5.1%20-%20192Kbps%20%26%20AAC%202.0)%20-%201.1GB.mkv",
     
     
     // ഫയൽ സൈസ് (ക്വാളിറ്റി വിൻഡോയിൽ കാണിക്കാൻ)
@@ -91,9 +91,9 @@
     "rating": "7.4",
     
     // പ്ലേ ചെയ്യാനും ഇൻ-ആപ്പ് ഡൗൺലോഡിനും ഒരേ ലിങ്കുകൾ
-    "link1080": "https://online.movies4uu.workers.dev/dl/AgADCy1346",
-    "link720": "https://online.movies4uu.workers.dev/dl/AgAD6S1345",
-    "link480": "https://online.movies4uu.workers.dev/dl/AgADyy1344",
+    "link1080": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6waO3QwdSwmJ0pRcZfGR3FhlEVXOUHrdltw/Mollywood%20Times%20(2026)%20Malayalam%20HQ%20HDRip%20-%201080p%20-%20HEVC%20-%20x265%20-%20(DD%2B5.1%20-%20192Kbps%20%26%20AAC%202.0)%20-%202.3GB%20-%20ESub.mkv",
+    "link720": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6waO3QrmeDBIAFtwjslJe8ppfmHbvpNVmH4/Mollywood%20Times%20(2026)%20Malayalam%20HQ%20HDRip%20-%20720p%20-%20x264%20-%20(DD%2B5.1%20-%20192Kbps%20%26%20AAC%202.0)%20-%201.8GB%20-%20ESub.mkv",
+    "link480": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6waOedouqBH6hHXxLuL8BaUEDmKHTFyy7Gu/Mollywood%20Times%20(2026)%20Malayalam%20HQ%20HDRip%20-%20x264%20-%20AAC%20-%20400MB%20-%20ESub.mkv",
     
     // ഫയൽ സൈസ് (ക്വാളിറ്റി വിൻഡോയിൽ കാണിക്കാൻ)
     "size1080": "2.3 GB",
