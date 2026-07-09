@@ -120,7 +120,7 @@
   {
     "title": "Blast",
     "playerTitle": "Blast (2026) Malayalam Full Movie HD",
-    "img": "https://image.tmdb.org/t/p/original/676QmhjH/et00500207-zncraymnbq-landscape.jpg",
+    "img": "blast",
     "tvLandscape": "https://i.ibb.co/676QmhjH/et00500207-zncraymnbq-landscape.jpg",
     "year": "2026",
     "lang": "Malayalam",
@@ -140,7 +140,7 @@
   {
     "title": "Revolver Rinko",
     "playerTitle": "Revolver Rinko (2026) Malayalam Full Movie HD",
-    "img": "https://image.tmdb.org/t/p/original/1YqWZY6R/et00498339-asgmhtrqwj-landscape.jpg",
+    "img": "revolverrinko",
     "tvLandscape": "https://i.ibb.co/1YqWZY6R/et00498339-asgmhtrqwj-landscape.jpg",
     "year": "2026",
     "lang": "Malayalam",
@@ -160,7 +160,7 @@
   {
     "title": "Athiradi",
     "playerTitle": "Athiradi (2026) Malayalam Full Movie HD",
-    "img": "https://image.tmdb.org/t/p/original/htc7NsL/et00488272-yzuhtwtldt-landscape.jpg",
+    "img": "athiradi",
     "tvLandscape": "https://i.ibb.co/htc7NsL/et00488272-yzuhtwtldt-landscape.jpg",
     "year": "2026",
     "lang": "Malayalam",
@@ -180,7 +180,7 @@
   {
     "title": "Gu",
     "playerTitle": "Gu (2024) Malayalam Full Movie HD",
-    "img": "https://image.tmdb.org/t/p/original/JDYDycR/et00397650-apyhgmlgqq-landscape.jpg",
+    "img": "gu",
     "tvLandscape": "https://i.ibb.co/JDYDycR/et00397650-apyhgmlgqq-landscape.jpg",
     "year": "2024",
     "lang": "Malayalam",
@@ -200,7 +200,7 @@
   {
     "title": "Drishyam 3",
     "playerTitle": "Drishyam 3 (2026) Malayalam Full Movie HD",
-    "img": "https://image.tmdb.org/t/p/original/zHRDtQ4H/et00487295-vaweahqtyh-landscape.jpg",
+    "img": "drishyam3",
     "tvLandscape": "https://i.ibb.co/zHRDtQ4H/et00487295-vaweahqtyh-landscape.jpg",
     "year": "2026",
     "lang": "Malayalam",
