@@ -1,5 +1,26 @@
 [
   {
+    "title": "Balti",
+    "playerTitle": "Balti (2026) Malayalam Full Movie HD",
+    "img": "https://image.tmdb.org/t/p/original/tpgbGGIM76Vk44KLxTNM2UkzmLG.jpg",
+    "tvLandscape": "https://i.ibb.co/SXFKdvtw/et00459410-slzrrqhrdu-landscape.jpg",
+    "year": "2026",
+    "lang": "Malayalam",
+    "quality": "HD",
+    "rating": "6.4",
+    "link1080": "",
+    "link720": "https://online.movies4uu.workers.dev/dl/AgADVS2206",
+    "link480": "https://online.movies4uu.workers.dev/dl/AgADHy2203",
+    "subtitles": [ {"lang": "English", "url": "link1"}, {"lang": "Malayalam", "url": "link2"} ],
+    "size1080": "2.9 GB",
+    "size720": "1.6 GB",
+    "size480": "400 MB",
+    "external_link1080": "",
+    "external_link720": "https://online.movies4uu.workers.dev/dl/AgADVS2206",
+    "external_link480": "https://online.movies4uu.workers.dev/dl/AgADHy2203",
+    "telegram": "https://t.me/M4Upremium_bot?start=BATCH-"
+  },
+  {
     "title": "Peddi",
     "playerTitle": "Peddi (2026) Malayalam Full Movie HD",
     "img": "https://image.tmdb.org/t/p/original/41kgZiFIsLzwLt7qDJ8HlUhCtW9.jpg",
