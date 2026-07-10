@@ -1,5 +1,26 @@
 [
   {
+    "title": "Dose",
+    "playerTitle": "Dose (2026) Malayalam Full Movie HD",
+    "img": "https://image.tmdb.org/t/p/original/wuEQbDF5jHaOOAMGiXWmDRz9imG.jpg",
+    "tvLandscape": "https://i.ibb.co/K1L26bH/dose-et00496653-1776948080.jpg",
+    "year": "2026",
+    "lang": "Malayalam",
+    "quality": "HD",
+    "rating": "7.9",
+    "link1080": "",
+    "link720": "https://online.movies4uu.workers.dev/dl/AgADpC2213",
+    "link480": "https://online.movies4uu.workers.dev/dl/AgADmi2210",
+    "subtitles": [ {"lang": "English", "url": "link1"}, {"lang": "Malayalam", "url": "link2"} ],
+    "size1080": "2.4 GB",
+    "size720": "1.7 GB",
+    "size480": "400 MB",
+    "external_link1080": "",
+    "external_link720": "https://online.movies4uu.workers.dev/dl/AgADpC2213",
+    "external_link480": "https://online.movies4uu.workers.dev/dl/AgADmi2210",
+    "telegram": "https://t.me/M4Upremium_bot?start=BATCH-"
+  },
+  {
     "title": "Balti",
     "playerTitle": "Balti (2026) Malayalam Full Movie HD",
     "img": "https://image.tmdb.org/t/p/original/tpgbGGIM76Vk44KLxTNM2UkzmLG.jpg",
