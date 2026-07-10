@@ -8,17 +8,17 @@
     "lang": "Malayalam",
     "quality": "HD",
     "rating": "7.9",
-    "link1080": "",
+    "link1080": "https://online.movies4uu.workers.dev/dl/AgADqC2216",
     "link720": "https://online.movies4uu.workers.dev/dl/AgADpC2213",
     "link480": "https://online.movies4uu.workers.dev/dl/AgADmi2210",
     "subtitles": [ {"lang": "English", "url": "link1"}, {"lang": "Malayalam", "url": "link2"} ],
     "size1080": "2.4 GB",
     "size720": "1.7 GB",
     "size480": "400 MB",
-    "external_link1080": "",
+    "external_link1080": "https://online.movies4uu.workers.dev/dl/AgADqC2216",
     "external_link720": "https://online.movies4uu.workers.dev/dl/AgADpC2213",
     "external_link480": "https://online.movies4uu.workers.dev/dl/AgADmi2210",
-    "telegram": "https://t.me/M4Upremium_bot?start=BATCH-"
+    "telegram": "https://t.me/M4Upremium_bot?start=BATCH-MTg5MDc"
   },
   {
     "title": "Balti",
