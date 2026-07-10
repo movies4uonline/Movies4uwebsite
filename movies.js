@@ -8,17 +8,17 @@
     "lang": "Malayalam",
     "quality": "HD",
     "rating": "6.4",
-    "link1080": "",
+    "link1080": "https://online.movies4uu.workers.dev/dl/AgADZC2209",
     "link720": "https://online.movies4uu.workers.dev/dl/AgADVS2206",
     "link480": "https://online.movies4uu.workers.dev/dl/AgADHy2203",
     "subtitles": [ {"lang": "English", "url": "link1"}, {"lang": "Malayalam", "url": "link2"} ],
-    "size1080": "2.9 GB",
+    "size1080": "3.1 GB",
     "size720": "1.6 GB",
     "size480": "400 MB",
-    "external_link1080": "",
+    "external_link1080": "https://online.movies4uu.workers.dev/dl/AgADZC2209",
     "external_link720": "https://online.movies4uu.workers.dev/dl/AgADVS2206",
     "external_link480": "https://online.movies4uu.workers.dev/dl/AgADHy2203",
-    "telegram": "https://t.me/M4Upremium_bot?start=BATCH-"
+    "telegram": "https://t.me/M4Upremium_bot?start=BATCH-MTg5MDU"
   },
   {
     "title": "Peddi",
