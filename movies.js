@@ -8,17 +8,17 @@
     "lang": "Malayalam",
     "quality": "HD",
     "rating": "5.9",
-    "link1080": "",
+    "link1080": "https://online.movies4uu.workers.dev/dl/AgADwS2235",
     "link720": "https://online.movies4uu.workers.dev/dl/AgAD3S2230",
     "link480": "https://online.movies4uu.workers.dev/dl/AgADsC2217",
     "subtitles": [ {"lang": "English", "url": "link1"}, {"lang": "Malayalam", "url": "link2"} ],
     "size1080": "2.4 GB",
     "size720": "1.4 GB",
     "size480": "400 MB",
-    "external_link1080": "",
+    "external_link1080": "https://online.movies4uu.workers.dev/dl/AgADwS2235",
     "external_link720": "https://online.movies4uu.workers.dev/dl/AgAD3S2230",
     "external_link480": "https://online.movies4uu.workers.dev/dl/AgADsC2217",
-    "telegram": "https://t.me/M4Upremium_bot?start=BATCH-"
+    "telegram": "https://t.me/M4Upremium_bot?start=BATCH-MTg5MTE"
   },
   {
     "title": "Dose",
