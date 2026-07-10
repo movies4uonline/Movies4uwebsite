@@ -270,7 +270,7 @@
     "quality": "HD",
     "rating": "6.7",
     "link1080": "",
-    "link720": "https://watchmovies4u.movies4uu.workers.dev/dl/6a51671479d983801a0fcdc1",
+    "link720": "https://watchmovies4u.movies4uu.workers.dev/dl/6a516fe88c97df9864be6d71",
     "link480": "https://watchmovies4u.movies4uu.workers.dev/dl/6a51657c79d983801a0fcdc0",
     "size1080": "2.5 GB",
     "size720": "1.4 GB",
