@@ -271,7 +271,7 @@
     "rating": "6.7",
     "link1080": "",
     "link720": "",
-    "link480": "",
+    "link480": "http://watchmovies4u.movies4uu.workers.dev/dl/6a51657c79d983801a0fcdc0",
     "size1080": "2.5 GB",
     "size720": "1.4 GB",
     "size480": "400 MB",
