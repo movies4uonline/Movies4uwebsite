@@ -229,7 +229,7 @@
     "lang": "Malayalam",
     "quality": "HD",
     "rating": "7.0",
-    "link1080": "",
+    "link1080": "http://watchmovies4u.movies4uu.workers.dev/dl/6a51c0338c97df9864be6d75",
     "link720": "http://watchmovies4u.movies4uu.workers.dev/dl/6a51bd478c97df9864be6d74",
     "link480": "http://watchmovies4u.movies4uu.workers.dev/dl/6a51b8a28c97df9864be6d73",
     "size1080": "3.3 GB",
