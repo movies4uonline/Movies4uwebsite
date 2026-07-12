@@ -9,7 +9,7 @@
     "quality": "HD",
     "rating": "5.9",
     "link1080": "https://online.movies4uu.workers.dev/dl/AgADwS2235",
-    "link720": "https://online.movies4uu.workers.dev/dl/AgAD3S2230",
+    "link720": "https://online.movies4uu.workers.dev/dl/AgADVi2584",
     "link480": "https://online.movies4uu.workers.dev/dl/AgADsC2217",
     "subtitles": [ {"lang": "English", "url": "link1"}, {"lang": "Malayalam", "url": "link2"} ],
     "size1080": "2.4 GB",
