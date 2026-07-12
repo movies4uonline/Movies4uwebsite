@@ -9,7 +9,7 @@
     "quality": "HD",
     "rating": "5.9",
     "link1080": "",
-    "link720": "http://watchmovies4u.movies4uu.workers.dev/dl/6a53aacba88a106791d3dd58",
+    "link720": "https://watchmovies4u.movies4uu.workers.dev/dl/6a53ae57a88a106791d3dd59",
     "link480": "",
     "subtitles": [ {"lang": "English", "url": "link1"}, {"lang": "Malayalam", "url": "link2"} ],
     "size1080": "2.4 GB",
