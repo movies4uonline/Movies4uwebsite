@@ -1,5 +1,26 @@
 [
   {
+    "title": "Cup",
+    "playerTitle": "Cup (2026) Malayalam Full Movie HD",
+    "img": "https://image.tmdb.org/t/p/original/hYV50JZ0PtQZWInMxCn3Rm5D4UA.jpg",
+    "tvLandscape": "https://i.ibb.co/Kcd8TGCF/et00413132-cvyalptqqj-landscape.jpg",
+    "year": "2026",
+    "lang": "Malayalam",
+    "quality": "HD",
+    "rating": "4.9",
+    "link1080": "https://watchmovies4u.movies4uu.workers.dev/dl/6a579ca1770c45c928207aa8",
+    "link720": "https://watchmovies4u.movies4uu.workers.dev/dl/6a579a4c770c45c928207aa7",
+    "link480": "https://watchmovies4u.movies4uu.workers.dev/dl/6a579883770c45c928207aa6",
+    "subtitles": [ {"lang": "English", "url": "link1"}, {"lang": "Malayalam", "url": "link2"} ],
+    "size1080": "2.6 GB",
+    "size720": "1.7 GB",
+    "size480": "400 MB",
+    "external_link1080": "",
+    "external_link720": "",
+    "external_link480": "",
+    "telegram": "https://t.me/M4Upremium_bot?start=BATCH-"
+  },
+  {
     "title": "Parimala And Co",
     "playerTitle": "Parimala And Co (2026) Malayalam Full Movie HD",
     "img": "https://image.tmdb.org/t/p/original/vN2TOTKin83av7hwYnwAKSd3EG8.jpg",
