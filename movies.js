@@ -1,5 +1,26 @@
 [
   {
+    "title": "Tholaivil Oru Kadhal",
+    "playerTitle": "Tholaivil Oru Kadhal (2026) Tamil Full Movie HD",
+    "img": "https://i.ibb.co/hxDVpg2K/9d233065fe73693643c3d7d7f9696200.jpg",
+    "tvLandscape": "https://i.ibb.co/hxDVpg2K/9d233065fe73693643c3d7d7f9696200.jpg",
+    "year": "2026",
+    "lang": "Tamil",
+    "quality": "HD",
+    "rating": "9.0",
+    "link1080": "http://watchmovies4u.movies4uu.workers.dev/dl/6a5793d4770c45c928207aa5",
+    "link720": "http://watchmovies4u.movies4uu.workers.dev/dl/6a5674ad052c6bc8f11cb8e1",
+    "link480": "http://watchmovies4u.movies4uu.workers.dev/dl/6a55315bdb4519c3e742e5ab",
+    "subtitles": [ {"lang": "English", "url": "link1"}, {"lang": "Malayalam", "url": "link2"} ],
+    "size1080": "1.2 GB",
+    "size720": "800 MB",
+    "size480": "400 MB",
+    "external_link1080": "",
+    "external_link720": "",
+    "external_link480": "",
+    "telegram": "https://t.me/M4Upremium_bot?start=BATCH-MTg5MjQ"
+  },
+  {
     "title": "Cup",
     "playerTitle": "Cup (2026) Malayalam Full Movie HD",
     "img": "https://image.tmdb.org/t/p/original/hYV50JZ0PtQZWInMxCn3Rm5D4UA.jpg",
