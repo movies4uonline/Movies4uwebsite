@@ -15,7 +15,6 @@
     "size720": "1 GB",
     "external_link1080": "",
     "external_link720": "",
-    "external_link480": "",
     "telegram": "https://t.me/M4Upremium_bot?start=BATCH-"
   },
   {
