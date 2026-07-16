@@ -1,5 +1,26 @@
 [
   {
+    "title": "The Bluff",
+    "playerTitle": "The Bluff (2026) English Full Movie HD",
+    "img": "",
+    "tvLandscape": "",
+    "year": "2026",
+    "lang": "English",
+    "quality": "HD",
+    "rating": "9.0",
+    "link1080": "",
+    "link720": "https://watchmovies4u.movies4uu.workers.dev/dl/6a584d0a94b2f8471388dc51",
+    "link480": "",
+    "subtitles": [ {"lang": "Malayalam", "http://watchmovies4u.movies4uu.workers.dev/dl/6a584df394b2f8471388dc52": "link2"} ],
+    "size1080": "1.2 GB",
+    "size720": "900 MB",
+    "size480": "400 MB",
+    "external_link1080": "",
+    "external_link720": "",
+    "external_link480": "",
+    "telegram": "https://t.me/M4Upremium_bot?start=BATCH-"
+  },
+  {
     "title": "Tholaivil Oru Kadhal",
     "playerTitle": "Tholaivil Oru Kadhal (2026) Tamil Full Movie HD",
     "img": "https://i.ibb.co/hxDVpg2K/9d233065fe73693643c3d7d7f9696200.jpg",
