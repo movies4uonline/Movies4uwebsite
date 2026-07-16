@@ -1,5 +1,26 @@
 [
   {
+    "title": "Peter",
+    "playerTitle": "Peter (2026) [Tamil + Malayalam] Full Movie HD",
+    "img": "https://image.tmdb.org/t/p/original/2p7dyTZBd4mDhysJnfWrEm5yVHt.jpg",
+    "tvLandscape": "https://i.ibb.co/zHj0ZBtQ/et00465077-leujbtvplq-landscape.jpg",
+    "year": "2026",
+    "lang": "Tamil Malayalam",
+    "quality": "HD",
+    "rating": "7.4",
+    "link1080": "",
+    "link720": "",
+    "link480": "http://watchmovies4u.movies4uu.workers.dev/dl/6a59186994b2f8471388dc58",
+    "subtitles": [ {"lang": "Malayalam", "": "link2"} ],
+    "size1080": "1.2 GB",
+    "size720": "1 GB",
+    "size480": "450 MB",
+    "external_link1080": "",
+    "external_link720": "",
+    "external_link480": "",
+    "telegram": "https://t.me/M4Upremium_bot?start=BATCH-"
+  },
+  {
     "title": "Backrooms",
     "playerTitle": "Backrooms (2026) English Full Movie HD",
     "img": "https://image.tmdb.org/t/p/original/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
