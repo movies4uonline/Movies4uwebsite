@@ -11,7 +11,7 @@
     "link1080": "",
     "link720": "https://watchmovies4u.movies4uu.workers.dev/dl/6a584d0a94b2f8471388dc51",
     "link480": "",
-    "subtitles": [ {"lang": "Malayalam", "http://watchmovies4u.movies4uu.workers.dev/dl/6a584df394b2f8471388dc52": "link2"} ],
+    "subtitles": [ {"lang": "Malayalam", "https://watchmovies4u.movies4uu.workers.dev/dl/6a584df394b2f8471388dc52": "link2"} ],
     "size1080": "1.2 GB",
     "size720": "900 MB",
     "size480": "400 MB",
