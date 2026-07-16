@@ -8,14 +8,14 @@
     "lang": "English",
     "quality": "HD",
     "rating": "7.0",
-    "link1080": "",
+    "link1080": "http://watchmovies4u.movies4uu.workers.dev/dl/6a59156794b2f8471388dc57",
     "link720": "http://watchmovies4u.movies4uu.workers.dev/dl/6a590cc094b2f8471388dc56",
     "subtitles": [ {"lang": "Malayalam", "": "link2"} ],
-    "size1080": "1.2 GB",
+    "size1080": "2.2 GB",
     "size720": "1 GB",
     "external_link1080": "",
     "external_link720": "",
-    "telegram": "https://t.me/M4Upremium_bot?start=BATCH-"
+    "telegram": "https://t.me/M4Upremium_bot?start=BATCH-MTg5MzA"
   },
   {
     "title": "Ek Din",
