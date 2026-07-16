@@ -1,26 +1,5 @@
 [
   {
-    "title": "Ek Din",
-    "playerTitle": "Ek Din (2026) Tamil Full Movie HD",
-    "img": "https://image.tmdb.org/t/p/original/yYkJylaY1TJT9iEBkWnc2Tiw6jN.jpg",
-    "tvLandscape": "https://i.ibb.co/7LfTXRV/et00482044-wmatvdxvus-landscape.jpg",
-    "year": "2026",
-    "lang": "Tamil",
-    "quality": "HD",
-    "rating": "5.8",
-    "link1080": "",
-    "link720": "https://watchmovies4u.movies4uu.workers.dev/dl/6a59070694b2f8471388dc54",
-    "link480": "https://watchmovies4u.movies4uu.workers.dev/dl/6a58fd1694b2f8471388dc53",
-    "subtitles": [ {"lang": "Malayalam", "": "link2"} ],
-    "size1080": "1.5 GB",
-    "size720": "800 MB",
-    "size480": "400 MB",
-    "external_link1080": "",
-    "external_link720": "",
-    "external_link480": "",
-    "telegram": "https://t.me/M4Upremium_bot?start=BATCH-"
-  },
-  {
     "title": "Tholaivil Oru Kadhal",
     "playerTitle": "Tholaivil Oru Kadhal (2026) Tamil Full Movie HD",
     "img": "https://i.ibb.co/hxDVpg2K/9d233065fe73693643c3d7d7f9696200.jpg",
