@@ -5,7 +5,7 @@
     "img": "https://image.tmdb.org/t/p/original/2p7dyTZBd4mDhysJnfWrEm5yVHt.jpg",
     "tvLandscape": "https://i.ibb.co/zHj0ZBtQ/et00465077-leujbtvplq-landscape.jpg",
     "year": "2026",
-    "lang": "Tamil Malayalam",
+    "lang": ["Tamil", "Malayalam"],
     "quality": "HD",
     "rating": "7.4",
     "link1080": "",
