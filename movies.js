@@ -1,5 +1,25 @@
 [
-  
+  {
+    "title": "Maa Inti Bangaaram",
+    "playerTitle": "Maa Inti Bangaaram (2026) Malayalam Full Movie HD",
+    "img": "https://image.tmdb.org/t/p/original/kcSxKmOqmF9NzYYQ5nAikIIq1pK.jpg",
+    "tvLandscape": "https://i.ibb.co/v65GScfF/et00489559-njhsbbucsg-landscape.jpg",
+    "year": "2026",
+    "lang": "Malayalam",
+    "quality": "HD",
+    "rating": "8.4",
+    "link1080": "",
+    "link720": "http://watchmovies4u.movies4uu.workers.dev/dl/6a5a6d77a8c7c5a094ed8e41/Maa%20Inti%20Bangaaram%20%282026%29%20Malayalam%20HQ%20HDRip%20-%20720p%20-%20x264%20-.mkv",
+    "link480": "http://watchmovies4u.movies4uu.workers.dev/dl/6a5a6a4996e4a552b69844ca/Maa%20Inti%20Bangaaram%20%282026%29%20Malayalam%20HQ%20HDRip%20-%20x264%20-%20AAC%20-%20.mkv",
+    "subtitles": [ {"lang": "Malayalam", "": "link2"} ],
+    "size1080": "2.8 GB",
+    "size720": "1.5 GB",
+    "size480": "400 MB",
+    "external_link1080": "",
+    "external_link720": "",
+    "external_link480": "",
+    "telegram": "https://t.me/M4Upremium_bot?start=BATCH-"
+  },
   {
     "title": "Peter",
     "playerTitle": "Peter (2026) [Tamil + Malayalam] Full Movie HD",
