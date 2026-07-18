@@ -393,7 +393,7 @@
     "lang": "Malayalam",
     "quality": "HD",
     "rating": "0.0",
-    "link1080": "",
+    "link1080": "https://watchmovies.movies4uu.workers.dev/dl/6a5bde6f6bed0b874f5bf6cf/Gu%20%282024%29%20Malayalam%20HQ%20HDRip%20-%201080p%20-%20x264%20-%20%28DD%2B5.1%20-%20384Kbps%20%26%20AAC%202.0%29%20-%202.8GB%20-%20ESub.mkv",
     "link720": "https://watchmovies.movies4uu.workers.dev/dl/6a5bde696bed0b874f5bf6ce/Gu%20%282024%29%20Malayalam%20HQ%20HDRip%20-%20720p%20-%20x264%20-%20%28DD5.1%20-%20192Kbps%20%26%20AAC%202.0%29%20-%201.4GB%20-%20ESub.mkv",
     "link480": "https://watchmovies.movies4uu.workers.dev/dl/6a5bddb96bed0b874f5bf6cd/Gu%20%282024%29%20Malayalam%20HQ%20HDRip%20-%20x264%20-%20AAC%20-%20400MB%20-%20ESub.mkv",
     "size1080": "2.7 GB",
