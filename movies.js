@@ -1,25 +1,5 @@
 [
-  {
-    "title": "I Nobody",
-    "playerTitle": "I Nobody (2026) Malayalam Full Movie HD",
-    "img": "https://image.tmdb.org/t/p/original/w2YbbFBNMWugTTI3MmRZKf9z26q.jpg",
-    "tvLandscape": "https://i.ibb.co/VcHDPtnW/et00503669-qtqqkdcjfk-landscape.jpg",
-    "year": "2026",
-    "lang": "Malayalam",
-    "quality": "HD",
-    "rating": "6.2",
-    "link1080": "",
-    "link720": "https://filetolinkv5.sumandevisgh63.workers.dev//dl/292526?code=66faef05902a0cab2eaadf16-1652683874",
-    "link480": "",
-    "subtitles": [ {"lang": "Malayalam", "": "link2"} ],
-    "size1080": "",
-    "size720": "1 GB",
-    "size480": "",
-    "external_link1080": "",
-    "external_link720": "",
-    "external_link480": "",
-    "telegram": "https://t.me/M4Upremium_bot?start=BATCH-"
-  },
+  
   {
     "title": "Maa Inti Bangaaram",
     "playerTitle": "Maa Inti Bangaaram (2026) Malayalam Full Movie HD",
