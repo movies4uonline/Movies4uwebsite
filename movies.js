@@ -9,7 +9,7 @@
     "quality": "HD",
     "rating": "6.2",
     "link1080": "",
-    "link720": "https://filetolinkv5.sumandevisgh63.workers.dev//dl/292526?code=66faef05902a0cab2eaadf16-1652683874",
+    "link720": "https://flowbit-848effb22be6.herokuapp.com/dl/101930/I%2C%20Nobody%20%282026%29%20Malayalam%20HQ%20PreDVD%20-%20720p%20-%20x264%20-%20HQ%20Clea.mkv?code=099429b4fc462b8dd57437cb-1652683874",
     "link480": "",
     "subtitles": [ {"lang": "Malayalam", "": "link2"} ],
     "size720": "1 GB",
