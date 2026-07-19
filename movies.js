@@ -1,7 +1,7 @@
 [
   {
-    "title": "I, Nobody",
-    "playerTitle": "I, Nobody (2026) Malayalam Full Movie HD",
+    "title": "I Nobody",
+    "playerTitle": "I Nobody (2026) Malayalam Full Movie HD",
     "img": "https://image.tmdb.org/t/p/original/w2YbbFBNMWugTTI3MmRZKf9z26q.jpg",
     "tvLandscape": "https://i.ibb.co/VcHDPtnW/et00503669-qtqqkdcjfk-landscape.jpg",
     "year": "2026",
