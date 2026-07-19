@@ -13,7 +13,7 @@
     "link480": "",
     "subtitles": [ {"lang": "Malayalam", "": "link2"} ],
     "size1080": "",
-    "size720": "1.5 GB",
+    "size720": "1 GB",
     "size480": "",
     "external_link1080": "",
     "external_link720": "",
