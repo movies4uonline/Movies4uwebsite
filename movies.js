@@ -72,7 +72,7 @@
     "quality": "HD",
     "rating": "7.0",
     "link1080": "http://watchmovies4u.movies4uu.workers.dev/dl/6a59156794b2f8471388dc57",
-    "link720": "http://watchmovies4u.movies4uu.workers.dev/dl/6a590cc094b2f8471388dc56/Backrooms%20%282026%29%20English%20HQ%20HDRip%20-%20720p%20-%20x264%20-%20%28DD5.1%20-%201.mkv",
+    "link720": "https://watchmovies.movies4uu.workers.dev/dl/6a5c43a5bda5594bf632175f/Backrooms%20%282026%29%20English%20HQ%20HDRip%20-%20720p%20-%20x264%20-%20%28DD5.1%20-%20192Kbps%20%26%20AAC%202.0%29%20-%201GB%20-%20ESub.mkv",
     "subtitles": [ {"lang": "Malayalam", "": "link2"} ],
     "size1080": "2.2 GB",
     "size720": "1 GB",
