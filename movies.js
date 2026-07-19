@@ -31,7 +31,7 @@
     "rating": "7.4",
     "link1080": "",
     "link720": "",
-    "link480": "http://watchmovies4u.movies4uu.workers.dev/dl/6a59186994b2f8471388dc58",
+    "link480": "https://watchmovies.movies4uu.workers.dev/dl/6a5c42a8bda5594bf632175e/Peter%20%282026%29%20HQ%20HDRip%20-%20x264%20-%20%5BTamil%20%2B%20Malayalam%5D%20-%20AAC%20-%20450MB%20-%20ESub.mkv",
     "subtitles": [ {"lang": "Malayalam", "": "link2"} ],
     "size1080": "1.2 GB",
     "size720": "1 GB",
