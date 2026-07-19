@@ -10,7 +10,7 @@
     "rating": "8.4",
     "link1080": "http://watchmovies4u.movies4uu.workers.dev/dl/6a5a8eb5a8c7c5a094ed8e42/Maa%20Inti%20Bangaaram%20%282026%29%20Malayalam%20HQ%20HDRip%20-%201080p%20-%20x264%20.mkv",
     "link720": "http://watchmovies4u.movies4uu.workers.dev/dl/6a5a6d77a8c7c5a094ed8e41/Maa%20Inti%20Bangaaram%20%282026%29%20Malayalam%20HQ%20HDRip%20-%20720p%20-%20x264%20-.mkv",
-    "link480": "http://watchmovies4u.movies4uu.workers.dev/dl/6a5a6a4996e4a552b69844ca/Maa%20Inti%20Bangaaram%20%282026%29%20Malayalam%20HQ%20HDRip%20-%20x264%20-%20AAC%20-%20.mkv",
+    "link480": "https://watchmovies.movies4uu.workers.dev/dl/6a5c3e9cbda5594bf632175b/Maa%20Inti%20Bangaaram%20%282026%29%20Malayalam%20HQ%20HDRip%20-%20x264%20-%20AAC%20-%20400MB%20-%20ESub.mkv",
     "subtitles": [ {"lang": "Malayalam", "": "link2"} ],
     "size1080": "2.8 GB",
     "size720": "1.5 GB",
