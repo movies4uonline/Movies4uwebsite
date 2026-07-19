@@ -373,7 +373,7 @@
     "lang": "Malayalam",
     "quality": "HD",
     "rating": "7.0",
-    "link1080": "",
+    "link1080": "https://watchmovies.movies4uu.workers.dev/dl/6a5c3e05bda5594bf632175a/Athiradi%20%282026%29%20Malayalam%20HQ%20HDRip%20-%201080p%20-%20HEVC%20-%20x265%20-%20%28DD%2B5.1%20-%20256Kbps%20%26%20AAC%202.0%29%20-%201.8GB%20-%20ESub.mkv",
     "link720": "https://watchmovies.movies4uu.workers.dev/dl/6a5bf44abda5594bf6321759/Athiradi%20%282026%29%20Malayalam%20HQ%20HDRip%20-%20720p%20-%20HEVC%20-%20x265%20-%20%28DD%2B5.1%20-%20256Kbps%20%26%20AAC%202.0%29%20-%201.2GB%20-%20ESub.mkv",
     "link480": "https://watchmovies.movies4uu.workers.dev/dl/6a5bf325bda5594bf6321758/Athiradi%20%282026%29%20Malayalam%20HQ%20HDRip%20-%20x264%20-%20AAC%20-%20400MB%20-%20ESub.mkv",
     "size1080": "3.3 GB",
