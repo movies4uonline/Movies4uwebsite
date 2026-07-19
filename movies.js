@@ -194,7 +194,7 @@
     "lang": "Malayalam",
     "quality": "HD",
     "rating": "6.4",
-    "link1080": "",
+    "link1080": "https://watchmovies.movies4uu.workers.dev/dl/6a5cf4a46648f4446f0dc004/Balti%20%282026%29%20Malayalam%20HQ%20HDRip%20-%201080p%20-%20x264%20-%20%28DD%2B5.1%20ATMOS%20-%20448Kbps%20%26%20AAC%202.0%29%20-%203.1GB%20-%20ESub.mkv",
     "link720": "https://watchmovies.movies4uu.workers.dev/dl/6a5cf3b26648f4446f0dc003/Balti%20%282026%29%20Malayalam%20HQ%20HDRip%20-%20720p%20-%20x264%20-%20%28DD%2B5.1%20-%20192Kbps%20%26%20AAC%202.0%29%20-%201.6GB%20-%20ESub.mkv",
     "link480": "https://watchmovies.movies4uu.workers.dev/dl/6a5cf2d96648f4446f0dc002/Balti%20%282026%29%20Malayalam%20HQ%20HDRip%20-%20x264%20-%20AAC%20-%20400MB%20-%20ESub.mkv",
     "subtitles": [ {"lang": "English", "url": "link1"}, {"lang": "Malayalam", "url": "link2"} ],
