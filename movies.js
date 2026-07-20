@@ -276,7 +276,7 @@
     "quality": "HD",
     "rating": "7.2",
     "link1080": "",
-    "link720": "",
+    "link720": "https://watchmovies.movies4uu.workers.dev/dl/6a5d7ff16648f4446f0dc00b/The%20Furious%20%282026%29%20English%20HQ%20HDRip%20-%20720p%20-%20x264%20-%20%28DD%2B5.1%20-%20192Kbps%20%26%20AAC%202.0%29%20-%201.1GB.mkv",
     "size1080": "2.3 GB",
     "size720": "1.1 GB",
     "external_link1080": "",
