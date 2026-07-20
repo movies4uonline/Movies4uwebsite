@@ -1,4 +1,25 @@
-https://watchmovies.movies4uu.workers.dev/dl/6a5defab6648f4446f0dc00f/Mollywood%20Times%20%282026%29%20Malayalam%20HQ%20HDRip%20-%201080p%20-%20HEVC%20-%20x265%20-%20%28DD%2B5.1%20-%20192Kbps%20%26%20AAC%202.0%29%20-%202.3GB%20-%20ESub.mkv[
+[
+  {
+    "title": "Chithini",
+    "playerTitle": "Chithini (2024) Malayalam Full Movie HD",
+    "img": "https://image.tmdb.org/t/p/original/5MGKubKYbH1RgKZNARG00Os6VAr.jpg",
+    "tvLandscape": "https://i.ibb.co/DD88FNmQ/et00405040-gcxtjbctuq-landscape.jpg",
+    "year": "2024",
+    "lang": "Malayalam",
+    "quality": "HD",
+    "rating": "5.1",
+    "link1080": "",
+    "link720": "",
+    "link480": "",
+    "subtitles": [ {"lang": "Malayalam", "": "link2"} ],
+    "size1080": "",
+    "size720": "1.5 GB",
+    "size480": "",
+    "external_link1080": "",
+    "external_link720": "",
+    "external_link480": "",
+    "telegram": "https://t.me/M4Upremium_bot?start=BATCH-"
+  },
   {
     "title": "I Nobody",
     "playerTitle": "I Nobody (2026) Malayalam Full Movie HD",
