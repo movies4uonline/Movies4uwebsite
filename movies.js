@@ -1,4 +1,4 @@
-[
+https://watchmovies.movies4uu.workers.dev/dl/6a5defab6648f4446f0dc00f/Mollywood%20Times%20%282026%29%20Malayalam%20HQ%20HDRip%20-%201080p%20-%20HEVC%20-%20x265%20-%20%28DD%2B5.1%20-%20192Kbps%20%26%20AAC%202.0%29%20-%202.3GB%20-%20ESub.mkv[
   {
     "title": "I Nobody",
     "playerTitle": "I Nobody (2026) Malayalam Full Movie HD",
@@ -292,9 +292,9 @@
     "lang": "Malayalam",
     "quality": "HD",
     "rating": "7.4",
-    "link1080": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6waO3QwdSwmJ0pRcZfGR3FhlEVXOUHrdltw/Mollywood%20Times%20(2026)%20Malayalam%20HQ%20HDRip%20-%201080p%20-%20HEVC%20-%20x265%20-%20(DD%2B5.1%20-%20192Kbps%20%26%20AAC%202.0)%20-%202.3GB%20-%20ESub.mkv",
-    "link720": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6waO3QrmeDBIAFtwjslJe8ppfmHbvpNVmH4/Mollywood%20Times%20(2026)%20Malayalam%20HQ%20HDRip%20-%20720p%20-%20x264%20-%20(DD%2B5.1%20-%20192Kbps%20%26%20AAC%202.0)%20-%201.8GB%20-%20ESub.mkv",
-    "link480": "https://watchmovies4u.movies4uu.workers.dev/dl/5gPvGOqziGbpTzGu7XpfHrXqsDAI3eoDx9sQSOQvRB6waOedouqBH6hHXxLuL8BaUEDmKHTFyy7Gu/Mollywood%20Times%20(2026)%20Malayalam%20HQ%20HDRip%20-%20x264%20-%20AAC%20-%20400MB%20-%20ESub.mkv",
+    "link1080": "https://watchmovies.movies4uu.workers.dev/dl/6a5defab6648f4446f0dc00f/Mollywood%20Times%20%282026%29%20Malayalam%20HQ%20HDRip%20-%201080p%20-%20HEVC%20-%20x265%20-%20%28DD%2B5.1%20-%20192Kbps%20%26%20AAC%202.0%29%20-%202.3GB%20-%20ESub.mkv",
+    "link720": "https://watchmovies.movies4uu.workers.dev/dl/6a5dd6516648f4446f0dc00e/Mollywood%20Times%20%282026%29%20Malayalam%20HQ%20HDRip%20-%20720p%20-%20x264%20-%20%28DD%2B5.1%20-%20192Kbps%20%26%20AAC%202.0%29%20-%201.8GB%20-%20ESub.mkv",
+    "link480": "https://watchmovies.movies4uu.workers.dev/dl/6a5dd5456648f4446f0dc00d/Mollywood%20Times%20%282026%29%20Malayalam%20HQ%20HDRip%20-%20x264%20-%20AAC%20-%20400MB%20-%20ESub.mkv",
     "size1080": "2.3 GB",
     "size720": "1.7 GB",
     "size480": "400 MB",
