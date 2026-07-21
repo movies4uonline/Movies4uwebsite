@@ -173,7 +173,7 @@
     "rating": "4.9",
     "link1080": "",
     "link720": "",
-    "link480": "",
+    "link480": "https://watchmovies.movies4uu.workers.dev/dl/6a5fbf09ea1caa3fc0443dfe/video-2026-07-21_18-48-44.mp4",
     "subtitles": [ {"lang": "English", "url": "link1"}, {"lang": "Malayalam", "url": "link2"} ],
     "size1080": "2.6 GB",
     "size720": "1.7 GB",
