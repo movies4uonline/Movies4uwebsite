@@ -1,5 +1,26 @@
 [
   {
+    "title": "Pallichattambi",
+    "playerTitle": "Pallichattambi (2026) Malayalam Full Movie HD",
+    "img": "https://image.tmdb.org/t/p/original/71J40hphFNXNQKk0aBdAEcSgEqT.jpg",
+    "tvLandscape": "https://i.ibb.co/mCzZCvs5/et00482729-vrzzyblhdx-landscape.jpg",
+    "year": "2026",
+    "lang": "Malayalam",
+    "quality": "HD",
+    "rating": "6.9",
+    "link1080": "",
+    "link720": "https://watchmovies.movies4uu.workers.dev/dl/6a62320933d1349fcfdb9f60/Pallichattambi%20%282026%29%20Malayalam%20HQ%20HDRip%20-%20720p%20-%20HEVC%20-%20x265%20-%20%28DD%2B5.1%20-%20192Kbps%20%26%20AAC%202.0%29%20-%20950MB%20-%20ESub.mkv",
+    "link480": "https://watchmovies.movies4uu.workers.dev/dl/6a622f7733d1349fcfdb9f5f/Pallichattambi%20%282026%29%20Malayalam%20HQ%20HDRip%20-%20x264%20-%20AAC%20-%20400MB%20-%20ESub.mkv",
+    "subtitles": [ {"lang": "Malayalam", "": "link2"} ],
+    "size1080": "1.7 GB",
+    "size720": "1 GB",
+    "size480": "400 MB",
+    "external_link1080": "",
+    "external_link720": "",
+    "external_link480": "",
+    "telegram": "https://t.me/M4Upremium_bot?start=BATCH-"
+  },
+  {
     "title": "Chithini",
     "playerTitle": "Chithini (2024) Malayalam Full Movie HD",
     "img": "https://image.tmdb.org/t/p/original/5MGKubKYbH1RgKZNARG00Os6VAr.jpg",
