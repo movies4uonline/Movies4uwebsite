@@ -1,5 +1,26 @@
 [
   {
+    "title": "Jana Nayagan",
+    "playerTitle": "Jana Nayagan (2026) Tamil Full Movie HD",
+    "img": "https://image.tmdb.org/t/p/original/yTjxfu1xrRoz5cTbxNcx7X6BA8.jpg",
+    "tvLandscape": "https://i.ibb.co/BKF5nVLs/et00430817-szvyvukqnd-landscape.jpg",
+    "year": "2026",
+    "lang": "Tamil",
+    "quality": "HD",
+    "rating": "0.0",
+    "link1080": "",
+    "link720": "https://filetolinkv5.sumandevisgh63.workers.dev//dl/303505?code=cc6b47b2d1a7ff481f728363-1652683874",
+    "link480": "",
+    "subtitles": [ {"lang": "Malayalam", "": "link2"} ],
+    "size1080": "Uploading",
+    "size720": "1 GB",
+    "size480": "Uploading",
+    "external_link1080": "",
+    "external_link720": "",
+    "external_link480": "",
+    "telegram": "https://t.me/M4Upremium_bot?start=BATCH-"
+  },
+  {
     "title": "Pallichattambi",
     "playerTitle": "Pallichattambi (2026) Malayalam Full Movie HD",
     "img": "https://image.tmdb.org/t/p/original/71J40hphFNXNQKk0aBdAEcSgEqT.jpg",
