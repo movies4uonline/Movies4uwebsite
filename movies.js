@@ -10,7 +10,7 @@
     "quality": "HD",
     "rating": "0.0",
     "link1080": "",
-    "link720": "https://filetolinkv5.sumandevisgh63.workers.dev//dl/303505?code=cc6b47b2d1a7ff481f728363-1652683874",
+    "link720": "https://filetolinkv5.sumandevisgh63.workers.dev/dl/303505?code=cc6b47b2d1a7ff481f728363-1652683874",
     "link480": "",
     "subtitles": [ {"lang": "Malayalam", "": "link2"} ],
     "size1080": "Uploading",
