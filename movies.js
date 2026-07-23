@@ -8,7 +8,7 @@
     "lang": "Malayalam",
     "quality": "HD",
     "rating": "7.5",
-    "link1080": "",
+    "link1080": "https://watchmovies1.movies4uu.workers.dev/dl/6a628b0dce326b405895cc1f/Secret%20of%20Kalinga%20%282026%29%20Malayalam%20TRUE%20WEB-DL%20-%201080p%20-%20AVC%20-%20UNTOUCHED%20-%20%28DD%2B5.1%20-%20192Kbps%20%26%20AAC%202.0%29%20-%202.1GB%20-%20ESub.mkv",
     "link720": "https://watchmovies2.movies4uu.workers.dev/dl/6a62891bce326b405895cc1e/Secret%20of%20Kalinga%20%282026%29%20Malayalam%20HQ%20HDRip%20-%20720p%20-%20x264%20-%20%28DD%2B5.1%20-%20192Kbps%20%26%20AAC%202.0%29%20-%201.2GB%20-%20ESub.mkv",
     "link480": "https://watchmovies3.movies4uu.workers.dev/dl/6a6286e1ce326b405895cc1d/Secret%20of%20Kalinga%20%282026%29%20Malayalam%20HQ%20HDRip%20-%20x264%20-%20AAC%20-%20400MB%20-%20ESub.mkv",
     "subtitles": [],
