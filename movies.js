@@ -1,5 +1,25 @@
 [
-  
+  {
+    "title": "Anomie",
+    "playerTitle": "Anomie (2026) Malayalam Full Movie HD",
+    "img": "https://image.tmdb.org/t/p/original/j0ZLUMdBimCAkblfcaBlrGzzYoq.jpg",
+    "tvLandscape": "https://i.ibb.co/x86rMD3f/et00482776-ectgswzwbh-landscape.jpg",
+    "year": "2026",
+    "lang": "Malayalam",
+    "quality": "HD",
+    "rating": "8.0",
+    "link1080": "https://watchmovies3.movies4uu.workers.dev/dl/6a628240ce326b405895cc1c/Anomie%20%282026%29%20Malayalam%20HQ%20HDRip%20-%201080p%20-%20HEVC%20-%20x265%20-%20%28DD%2B5.1%20-%20192Kbps%20%26%20AAC%202.0%29%20-%201.7GB%20-%20ESub.mkv",
+    "link720": "https://watchmovies2.movies4uu.workers.dev/dl/6a62816cce326b405895cc1b/Anomie%20%282026%29%20Malayalam%20HQ%20HDRip%20-%20720p%20-%20HEVC%20-%20x265%20-%20%28DD%2B5.1%20-%20192Kbps%20%26%20AAC%202.0%29%20-%20950MB%20-%20ESub.mkv",
+    "link480": "https://watchmovies3.movies4uu.workers.dev/dl/6a628008ce326b405895cc1a/Anomie%20%282026%29%20Malayalam%20HQ%20HDRip%20-%20x264%20-%20AAC%20-%20400MB%20-%20ESub.mkv",
+    "subtitles": [ {"lang": "Malayalam", "": "link2"} ],
+    "size1080": "1.7 GB",
+    "size720": "1 GB",
+    "size480": "400 MB",
+    "external_link1080": "",
+    "external_link720": "",
+    "external_link480": "",
+    "telegram": "https://t.me/M4Upremium_bot?start=BATCH-"
+  },
   {
     "title": "Jana Nayagan",
     "playerTitle": "Jana Nayagan (2026) Tamil Full Movie HD",
