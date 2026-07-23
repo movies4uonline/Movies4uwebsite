@@ -1,5 +1,26 @@
 [
   {
+    "title": "Secret Of Kalinga",
+    "playerTitle": "Secret Of Kalinga (2026) Malayalam Full Movie HD",
+    "img": "https://image.tmdb.org/t/p/original/8VsD78ZxP68dLtYYhKgqXbfSQbR.jpg",
+    "tvLandscape": "https://i.ibb.co/KjcNddhG/et00503334-qradcvpecd-landscape.jpg",
+    "year": "2026",
+    "lang": "Malayalam",
+    "quality": "HD",
+    "rating": "7.5",
+    "link1080": "",
+    "link720": "https://watchmovies2.movies4uu.workers.dev/dl/6a62891bce326b405895cc1e/Secret%20of%20Kalinga%20%282026%29%20Malayalam%20HQ%20HDRip%20-%20720p%20-%20x264%20-%20%28DD%2B5.1%20-%20192Kbps%20%26%20AAC%202.0%29%20-%201.2GB%20-%20ESub.mkv",
+    "link480": "https://watchmovies3.movies4uu.workers.dev/dl/6a6286e1ce326b405895cc1d/Secret%20of%20Kalinga%20%282026%29%20Malayalam%20HQ%20HDRip%20-%20x264%20-%20AAC%20-%20400MB%20-%20ESub.mkv",
+    "subtitles": [],
+    "size1080": "2.1 GB",
+    "size720": "1.2 GB",
+    "size480": "400 MB",
+    "external_link1080": "",
+    "external_link720": "",
+    "external_link480": "",
+    "telegram": "https://t.me/M4Upremium_bot?start=BATCH-"
+  },
+  {
     "title": "Anomie",
     "playerTitle": "Anomie (2026) Malayalam Full Movie HD",
     "img": "https://image.tmdb.org/t/p/original/j0ZLUMdBimCAkblfcaBlrGzzYoq.jpg",
