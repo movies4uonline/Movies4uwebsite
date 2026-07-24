@@ -1,5 +1,26 @@
 [
   {
+    "title": "Euphoria",
+    "playerTitle": "Euphoria (2026) Malayalam Full Movie HD",
+    "img": "https://image.tmdb.org/t/p/original/gyPf6teWaquuYXN7Qp7FeaVNVYv.jpg",
+    "tvLandscape": "https://i.ibb.co/8DRtHxPq/et00449831-nprggpgfre-landscape.jpg",
+    "year": "2026",
+    "lang": "Malayalam",
+    "quality": "HD",
+    "rating": "7.5",
+    "link1080": "https://watchmovies1.movies4uu.workers.dev/stream/6a62e220ce326b405895cc22/Euphoria%20%282026%29%20Malayalam%20HQ%20HDRip%20-%201080p%20-%20x264%20-%20%28DD%2B5.1%20-%20192Kbps%29%20-%202.7GB%20-%20ESub.mkv",
+    "link720": "https://watchmovies2.movies4uu.workers.dev/stream/6a62e09bce326b405895cc21/Euphoria%20%282026%29%20Malayalam%20HQ%20HDRip%20-%201080p%20-%20x264%20-%20%28DD%2B5.1%20-%20192Kbps%29%20-%201.5GB%20-%20ESub.mkv",
+    "link480": "https://watchmovies3.movies4uu.workers.dev/stream/6a62de65ce326b405895cc20/Euphoria%20%282026%29%20Malayalam%20HQ%20HDRip%20-%20x264%20-%20AAC%20-%20450MB%20-%20ESub.mkv",
+    "subtitles": [],
+    "size1080": "2.7 GB",
+    "size720": "1.5 GB",
+    "size480": "400 MB",
+    "external_link1080": "https://watchmovies1.movies4uu.workers.dev/dl/6a62e220ce326b405895cc22/Euphoria%20%282026%29%20Malayalam%20HQ%20HDRip%20-%201080p%20-%20x264%20-%20%28DD%2B5.1%20-%20192Kbps%29%20-%202.7GB%20-%20ESub.mkv",
+    "external_link720": "https://watchmovies2.movies4uu.workers.dev/dl/6a62e09bce326b405895cc21/Euphoria%20%282026%29%20Malayalam%20HQ%20HDRip%20-%201080p%20-%20x264%20-%20%28DD%2B5.1%20-%20192Kbps%29%20-%201.5GB%20-%20ESub.mkv",
+    "external_link480": "https://watchmovies3.movies4uu.workers.dev/dl/6a62de65ce326b405895cc20/Euphoria%20%282026%29%20Malayalam%20HQ%20HDRip%20-%20x264%20-%20AAC%20-%20450MB%20-%20ESub.mkv",
+    "telegram": "https://t.me/M4Upremium_bot?start=BATCH-"
+  },
+  {
     "title": "Secret Of Kalinga",
     "playerTitle": "Secret Of Kalinga (2026) Malayalam Full Movie HD",
     "img": "https://image.tmdb.org/t/p/original/8VsD78ZxP68dLtYYhKgqXbfSQbR.jpg",
