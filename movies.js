@@ -10,7 +10,7 @@
     "rating": "8.6",
     "link1080": "https://watchmovies1.movies4uu.workers.dev/stream/6a63bc29ce326b405895cc25/Con%20City%20%282026%29%20Malayalam%20HQ%20HDRip%20-%201080p%20-%20HEVC%20-%20x265%20-%20%28DD%2B5.1%20-%20192Kbps%29%20-%202.2GB%20-%20ESub.mkv",
     "link720": "https://watchmovies2.movies4uu.workers.dev/stream/6a63ba37ce326b405895cc24/Con%20City%20%282026%29%20Malayalam%20HQ%20HDRip%20-%20720p%20-%20x264%20-%20%28DD%2B5.1%20-%20192Kbps%29%20-%201.9GB%20-%20ESub.mkv",
-    "link480": "https://watchmovies.movies4uu.workers.dev/dl/6a6780b27cde6d93db4ddd9d/Con%20City%20%282026%29%20Malayalam%20HQ%20HDRip%20-%20x264%20-%20AAC%20-%20850MB%20-%20ESub.mkv",
+    "link480": "https://watchmovies3.movies4uu.workers.dev/dl/6a6780b27cde6d93db4ddd9d/Con%20City%20%282026%29%20Malayalam%20HQ%20HDRip%20-%20x264%20-%20AAC%20-%20850MB%20-%20ESub.mkv",
     "subtitles": [],
     "size1080": "2.2 GB",
     "size720": "1.9 GB",
