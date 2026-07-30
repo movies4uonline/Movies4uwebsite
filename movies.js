@@ -1,5 +1,26 @@
 [
   {
+    "title": "Balan: The Boy",
+    "playerTitle": "Balan: The Boy (2026) Malayalam Full Movie HD",
+    "img": "https://image.tmdb.org/t/p/original/7H0KRnM0aZS5BHjoZBxriitYSvJ.jpg",
+    "tvLandscape": "https://i.ibb.co/Ps3jzGwG/et00502388-aznzubcuel-landscape.jpg",
+    "year": "2026",
+    "lang": "Malayalam",
+    "quality": "HD",
+    "rating": "8.2",
+    "link1080": "",
+    "link720": "",
+    "link480": "https://watchmovies3.movies4uu.workers.dev/stream/6a6bb00306e8a3f70a361234/Balan%3A%20The%20Boy%20%282026%29%20Malayalam%20HQ%20HDRip%20-%20x264%20-%20AAC%20-%20400MB%20-%20ESub.mkv",
+    "subtitles": [],
+    "size1080": "1.6 GB",
+    "size720": "1 GB",
+    "size480": "400 MB",
+    "external_link1080": "",
+    "external_link720": "",
+    "external_link480": "https://watchmovies3.movies4uu.workers.dev/dl/6a6bb00306e8a3f70a361234/Balan%3A%20The%20Boy%20%282026%29%20Malayalam%20HQ%20HDRip%20-%20x264%20-%20AAC%20-%20400MB%20-%20ESub.mkv",
+    "telegram": "https://t.me/M4Upremium_bot?start=BATCH-"
+  },
+  {
     "title": "Chinna Chinna Aasai",
     "playerTitle": "Chinna Chinna Aasai (2026) Malayalam Full Movie HD",
     "img": "https://image.tmdb.org/t/p/original/IM2OXyozpmi9dLpx46XYQXxOTd.jpg",
