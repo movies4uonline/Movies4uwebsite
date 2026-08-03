@@ -1,5 +1,26 @@
 [
   {
+    "title": "Gatta Kusthi 2",
+    "playerTitle": "Gatta Kusthi 2 (2026) Malayalam Full Movie HD",
+    "img": "https://image.tmdb.org/t/p/original/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg",
+    "tvLandscape": "https://i.ibb.co/23yKYScm/et00326206-srrvvbbrxa-landscape.jpg",
+    "year": "2026",
+    "lang": "Malayalam",
+    "quality": "HD",
+    "rating": "7.2",
+    "link1080": "",
+    "link720": "https://watchmovies2.movies4uu.workers.dev/stream/6a70b6703e6bfcdbfb796477/Gatta%20Kusthi%202%20%282026%29%20Malayalam%20HQ%20HDRip%20-%20720p%20-%20HEVC%20-%20x265%20-%20%28DD%2B5.1%20-%20192Kbps%20%26%20AAC%202.0%29%20-%201.1GB%20-%20ESub.mkv",
+    "link480": "https://watchmovies1.movies4uu.workers.dev/stream/6a70b54f3e6bfcdbfb796476/Gatta%20Kusthi%202%20%282026%29%20Malayalam%20HQ%20HDRip%20-%20x264%20-%20AAC%20-%20400MB%20-%20ESub.mkv",
+    "subtitles": [],
+    "size1080": "3 GB",
+    "size720": "1.1 GB",
+    "size480": "400 MB",
+    "external_link1080": "",
+    "external_link720": "https://watchmovies2.movies4uu.workers.dev/dl/6a70b6703e6bfcdbfb796477/Gatta%20Kusthi%202%20%282026%29%20Malayalam%20HQ%20HDRip%20-%20720p%20-%20HEVC%20-%20x265%20-%20%28DD%2B5.1%20-%20192Kbps%20%26%20AAC%202.0%29%20-%201.1GB%20-%20ESub.mkv",
+    "external_link480": "https://watchmovies1.movies4uu.workers.dev/dl/6a70b54f3e6bfcdbfb796476/Gatta%20Kusthi%202%20%282026%29%20Malayalam%20HQ%20HDRip%20-%20x264%20-%20AAC%20-%20400MB%20-%20ESub.mkv",
+    "telegram": "https://t.me/M4Upremium_bot?start=BATCH-"
+  },
+  {
     "title": "Balan: The Boy",
     "playerTitle": "Balan: The Boy (2026) Malayalam Full Movie HD",
     "img": "https://image.tmdb.org/t/p/original/7H0KRnM0aZS5BHjoZBxriitYSvJ.jpg",
