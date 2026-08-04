@@ -8,6 +8,7 @@
     "lang": "Malayalam",
     "quality": "HD",
     "rating": "7.2",
+    "trailerUrl": "https://youtu.be/KhXXqdQT0gw?si=sSPunkL46LWgA9bK"
     "link1080": "",
     "link720": "https://watchmovies2.movies4uu.workers.dev/stream/6a70b6703e6bfcdbfb796477/Gatta%20Kusthi%202%20%282026%29%20Malayalam%20HQ%20HDRip%20-%20720p%20-%20HEVC%20-%20x265%20-%20%28DD%2B5.1%20-%20192Kbps%20%26%20AAC%202.0%29%20-%201.1GB%20-%20ESub.mkv",
     "link480": "https://watchmovies1.movies4uu.workers.dev/stream/6a70b54f3e6bfcdbfb796476/Gatta%20Kusthi%202%20%282026%29%20Malayalam%20HQ%20HDRip%20-%20x264%20-%20AAC%20-%20400MB%20-%20ESub.mkv",
