@@ -605,12 +605,9 @@
     "lang": "Malayalam",
     "quality": "HD",
     "rating": "8.6",
-    "link720": ""
-    "link720": ""
-    "link720": ""
-    "link720": "https://watchmovies3.movies4uu.workers.dev/dl/6a74a415e23a059ec6ca57cb/Muthassi%20%282026%29%20S01%20EP03%20TRUE%20WEB-DL%20-%20720p%20-%20AVC%20-%20UNTOUCHED%20-%20%5BTamil%20%2B%20Hindi%20%2B%20Malayalam%5D%20-%20%28AAC%202.0%29%20-%20130MB%20-%20ESub.mkv",
+    "link1080": "https://watchmovies3.movies4uu.workers.dev/dl/6a74a488e23a059ec6ca57cc/Muthassi%20%282026%29%20S01%20EP04%20TRUE%20WEB-DL%20-%20720p%20-%20AVC%20-%20UNTOUCHED%20-%20%5BTamil%20%2B%20Hindi%20%2B%20Malayalam%5D%20-%20%28AAC%202.0%29%20-%20210MB%20-%20ESub.mkv",
     "link720": "https://watchmovies3.movies4uu.workers.dev/dl/6a74a39de23a059ec6ca57ca/Muthassi%20%282026%29%20S01%20EP02%20TRUE%20WEB-DL%20-%20720p%20-%20AVC%20-%20UNTOUCHED%20-%20%5BTamil%20%2B%20Hindi%20%2B%20Malayalam%5D%20-%20%28AAC%202.0%29%20-%20180MB%20-%20ESub.mkv",
-    "link720": "https://watchmovies3.movies4uu.workers.dev/dl/6a74a209e23a059ec6ca57c9/Muthassi%20%282026%29%20S01%20EP01%20TRUE%20WEB-DL%20-%20720p%20-%20AVC%20-%20UNTOUCHED%20-%20%5BTamil%20%2B%20Hindi%20%2B%20Malayalam%5D%20-%20%28AAC%202.0%29%20-%20250MB%20-%20ESub.mkv",
+    "link480": "https://watchmovies3.movies4uu.workers.dev/dl/6a74a209e23a059ec6ca57c9/Muthassi%20%282026%29%20S01%20EP01%20TRUE%20WEB-DL%20-%20720p%20-%20AVC%20-%20UNTOUCHED%20-%20%5BTamil%20%2B%20Hindi%20%2B%20Malayalam%5D%20-%20%28AAC%202.0%29%20-%20250MB%20-%20ESub.mkv",
     "size1080": "2.5 GB",
     "size720": "1.2 GB",
     "size480": "400 MB",
@@ -668,9 +665,9 @@
     "lang": "Malayalam",
     "quality": "HD",
     "rating": "6.7",
-    "link1080": "http://watchmovies1.movies4uu.workers.dev/dl/6a5171548c97df9864be6d72",
-    "link720": "http://watchmovies2.movies4uu.workers.dev/dl/6a516fe88c97df9864be6d71",
-    "link480": "http://watchmovies3.movies4uu.workers.dev/dl/6a51657c79d983801a0fcdc0",
+    "link1080": "https://watchmovies3.movies4uu.workers.dev/dl/6a74a6d8e23a059ec6ca57ce/Muthassi%20%282026%29%20S01%20EP06%20TRUE%20WEB-DL%20-%20720p%20-%20AVC%20-%20UNTOUCHED%20-%20%5BTamil%20%2B%20Hindi%20%2B%20Malayalam%5D%20-%20%28AAC%202.0%29%20-%20370MB%20-%20ESub.mkv",
+    "link720": "https://watchmovies3.movies4uu.workers.dev/dl/6a74a693e23a059ec6ca57cd/Muthassi%20%282026%29%20S01%20EP05%20TRUE%20WEB-DL%20-%20720p%20-%20AVC%20-%20UNTOUCHED%20-%20%5BTamil%20%2B%20Hindi%20%2B%20Malayalam%5D%20-%20%28AAC%202.0%29%20-%20250MB%20-%20ESub.mkv",
+    "link480": "https://watchmovies3.movies4uu.workers.dev/dl/6a74a415e23a059ec6ca57cb/Muthassi%20%282026%29%20S01%20EP03%20TRUE%20WEB-DL%20-%20720p%20-%20AVC%20-%20UNTOUCHED%20-%20%5BTamil%20%2B%20Hindi%20%2B%20Malayalam%5D%20-%20%28AAC%202.0%29%20-%20130MB%20-%20ESub.mkv",
     "size1080": "2.5 GB",
     "size720": "1.4 GB",
     "size480": "400 MB",
