@@ -32,8 +32,8 @@
     "rating": "7.2",
     "trailerUrl": "https://watchmovies3.movies4uu.workers.dev/stream/6a7265851dc920c0abad4ef8/Video.mp4"
     "link1080": "",
-    "link720": "https://watchmovies2.movies4uu.workers.dev/stream/6a70b6703e6bfcdbfb796477/Gatta%20Kusthi%202%20%282026%29%20Malayalam%20HQ%20HDRip%20-%20720p%20-%20HEVC%20-%20x265%20-%20%28DD%2B5.1%20-%20192Kbps%20%26%20AAC%202.0%29%20-%201.1GB%20-%20ESub.mkv",
-    "link480": "https://watchmovies1.movies4uu.workers.dev/stream/6a70b54f3e6bfcdbfb796476/Gatta%20Kusthi%202%20%282026%29%20Malayalam%20HQ%20HDRip%20-%20x264%20-%20AAC%20-%20400MB%20-%20ESub.mkv",
+    "link720": "https://watchmovies3.movies4uu.workers.dev/dl/1812?code=c97ba83a0401e56edb58b137-1652683874",
+    "link480": "https://watchmovies3.movies4uu.workers.dev/dl/1811?code=d5804df1af20fc6f2a4c1073-1652683874",
     "subtitles": [],
     "size1080": "3 GB",
     "size720": "1.1 GB",
