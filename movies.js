@@ -31,7 +31,7 @@
     "quality": "HD",
     "rating": "7.2",
     "trailerUrl": "https://watchmovies3.movies4uu.workers.dev/stream/6a7265851dc920c0abad4ef8/Video.mp4"
-    "link1080": "",
+    "link1080": "https://flowbit-848effb22be6.herokuapp.com/dl/134690/Peddi%20%282026%29%20Malayalam%20HQ%20HDRip%20-%20720p%20-%20x264%20-%20%28DD%2B5.1%20-%2019.mkv?code=097d8b3152b05d45a85491e9-1652683874",
     "link720": "https://watchmovies3.movies4uu.workers.dev/dl/1812?code=c97ba83a0401e56edb58b137-1652683874",
     "link480": "https://watchmovies3.movies4uu.workers.dev/dl/1811?code=d5804df1af20fc6f2a4c1073-1652683874",
     "subtitles": [],
