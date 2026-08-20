@@ -10,7 +10,7 @@
     "rating": "0.0",
     "trailerUrl": "https://watchmovies3.movies4uu.workers.dev/stream/6a734d301dc920c0abad4efa/video-2026-08-05_14-48-19.mp4",
     "link1080": "",
-    "link720": "https://watchmovies3.movies4uu.workers.dev/stream/18946?hash=12172b",
+    "link720": "http://watchmovies1.movies4uu.workers.dev:27935/dl/6a873d2047de163c5951c635",
     "link480": "",
     "subtitles": [],
     "size1080": "3 GB",
