@@ -1,7 +1,9 @@
 {
-  "versionCode": 1,
+  "versionCode": 8,
+  "message": "New optimized version is available! Please update for smoother playback.",
+  "forceUpdate": true,
+  "updateUrl_arm64": "https://online.movies4uu.workers.dev/dl/ARM64_ലിങ്ക്_ഇവിടെ_നൽകുക",
+  "updateUrl_armv7": "https://online.movies4uu.workers.dev/dl/ARMV7_ലിങ്ക്_ഇവിടെ_നൽകുക",
   "updateUrl": "https://online.movies4uu.workers.dev/dl/AgADHh2056",
-  "shareUrl": "https://online.movies4uu.workers.dev/dl/AgADHh2056",
-  "message": "New version are now available! Please update the app to enjoy.",
-  "forceUpdate": true
+  "shareUrl": "https://movies4uonline.github.io/"
 }
