@@ -10,7 +10,7 @@
     "rating": "0.0",
     "trailerUrl": "https://watchmovies3.movies4uu.workers.dev/stream/6a734d301dc920c0abad4efa/video-2026-08-05_14-48-19.mp4",
     "link1080": "",
-    "link720": "https://watchmovies3.movies4uu.workers.dev/dl/6a88733956e08624fce9fc33/Kattalan%20%282026%29%20Malayalam%20HQ%20HDRip%20-%20720p%20-%20HEVC%20-%20x265%20-%20%28DD%2B5.1%20-%20192Kbps%20%26%20AAC%202.0%29%20-%201GB%20-%20ESub.mkv",
+    "link720": "https://watchmovies3.movies4uu.workers.dev/stream/6a88733956e08624fce9fc33/Kattalan%20%282026%29%20Malayalam%20HQ%20HDRip%20-%20720p%20-%20HEVC%20-%20x265%20-%20%28DD%2B5.1%20-%20192Kbps%20%26%20AAC%202.0%29%20-%201GB%20-%20ESub.mkv",
     "link480": "",
     "subtitles": [],
     "size1080": "3 GB",
