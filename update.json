@@ -2,8 +2,8 @@
   "versionCode": 10,
   "message": "New optimized version is available! Please update for smoother playback.",
   "forceUpdate": true,
-  "updateUrl_arm64": "https://online.movies4uu.workers.dev/dl/ARM64_ലിങ്ക്_ഇവിടെ_നൽകുക",
-  "updateUrl_armv7": "https://online.movies4uu.workers.dev/dl/ARMV7_ലിങ്ക്_ഇവിടെ_നൽകുക",
+  "updateUrl_arm64": "",
+  "updateUrl_armv7": "",
   "updateUrl": "https://watchmovies3.movies4uu.workers.dev/dl/6a8c9f257fa5269ed75ddd3d/Movies4U.apk",
   "shareUrl": "https://movies4uonline.github.io/"
 }
