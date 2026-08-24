@@ -1,14 +1,9 @@
 {
-  "versionCode": 1,
-  "announcement": {
-    "show": true,
-    "title": "Onam Giveaway!",
-    "message": "Use code ONAM2024 for 50 coins!",
-    "actionUrl": "https://t.me/Movies4U_Admin"
-  },
-  "promoPoster": {
-    "show": true,
-    "imageUrl": "https://tenor.com/en-IN/view/onam-happy-onam-onam-celebrations-ibs-software-kerala-gif-18345989326335484324",
-    "actionUrl": "https://t.me/Movies4U_Admin"
-  }
+  "versionCode": 20,
+  "message": "New optimized version is available! Please update for smoother playback.",
+  "forceUpdate": true,
+  "updateUrl_arm64": "https://online.movies4uu.workers.dev/dl/ARM64_ലിങ്ക്_ഇവിടെ_നൽകുക",
+  "updateUrl_armv7": "https://online.movies4uu.workers.dev/dl/ARMV7_ലിങ്ക്_ഇവിടെ_നൽകുക",
+  "updateUrl": "https://online.movies4uu.workers.dev/dl/AgADHh2056",
+  "shareUrl": "https://movies4uonline.github.io/"
 }
