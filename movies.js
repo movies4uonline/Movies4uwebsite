@@ -1,5 +1,27 @@
 [
   {
+    "title": "Pluto",
+    "playerTitle": "Pluto (2026) Malayalam Full Movie HD",
+    "img": "https://image.tmdb.org/t/p/original/pPxsw4KnZbsklyHUCTKSCHKaC8F.jpg",
+    "tvLandscape": "https://i.ibb.co/vCzNcJgg/Cover-30-66a73940-7c27-11f1-a070-ab100dd43d3a.jpg",
+    "year": "2026",
+    "lang": "Malayalam",
+    "quality": "HD",
+    "rating": "6.4",
+    "trailerUrl": "https://watchmovies3.movies4uu.workers.dev/dl/6a8d41b8a4cdc431797f5baf/PLUTO%20Official%20Trailer.mp4",
+    "link1080": "https://watchmovies3.movies4uu.workers.dev/dl/6a8d36b87fa5269ed75ddd40/Pluto%20%282026%29%20Malayalam%20HQ%20HDRip%20-%201080p%20-%20x264%20-%20%28AAC%202.0%29%20-%202.5GB%20-%20ESub.mkv",
+    "link720": "https://watchmovies3.movies4uu.workers.dev/dl/6a8d33ed7fa5269ed75ddd3f/Pluto%20%282026%29%20Malayalam%20HQ%20HDRip%20-%20720p%20-%20x264%20-%20%28AAC%202.0%29%20-%201.4GB%20-%20ESub.mkv",
+    "link480": "https://watchmovies3.movies4uu.workers.dev/dl/6a8d329c7fa5269ed75ddd3e/Pluto%20%282026%29%20Malayalam%20HQ%20HDRip%20-%20x264%20-%20AAC%20-%20400MB%20-%20ESub.mkv",
+    "subtitles": [],
+    "size1080": "2.5 GB",
+    "size720": "1.5 GB",
+    "size480": "400 MB",
+    "external_link1080": "",
+    "external_link720": "",
+    "external_link480": "",
+    "telegram": "https://t.me/M4Upremium_bot?start=BATCH-"
+  },
+  {
     "title": "Uyir",
     "playerTitle": "Uyir (2026) Malayalam Full Movie HD",
     "img": "https://image.tmdb.org/t/p/original/A8rfYIHYRU6xlByXgAt0DSjVguq.jpg",
