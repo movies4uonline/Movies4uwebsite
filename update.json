@@ -1,7 +1,7 @@
 {
   "versionCode": 10,
   "message": "New optimized version is available! Please update for smoother playback.",
-  "forceUpdate": true,
+  "forceUpdate": false,
   "updateUrl_arm64": "https://filetolinkv5.sumandevisgh63.workers.dev//dl/385071?code=0aa3285468c5f0999c5bbcf0-1652683874",
   "updateUrl_armv7": "https://filetolinkv5.sumandevisgh63.workers.dev//dl/385071?code=0aa3285468c5f0999c5bbcf0-1652683874",
   "updateUrl": "https://filetolinkv5.sumandevisgh63.workers.dev//dl/385071?code=0aa3285468c5f0999c5bbcf0-1652683874",
