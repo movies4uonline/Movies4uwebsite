@@ -22,28 +22,6 @@
     "telegram": "https://t.me/M4Upremium_bot?start=BATCH-"
   },
   {
-    "title": "Uyir",
-    "playerTitle": "Uyir (2026) Malayalam Full Movie HD",
-    "img": "https://image.tmdb.org/t/p/original/A8rfYIHYRU6xlByXgAt0DSjVguq.jpg",
-    "tvLandscape": "https://image.tmdb.org/t/p/original/sxs1ME8rwQIccp7SL37fRgt0sFH.jpg",
-    "year": "2026",
-    "lang": "Malayalam",
-    "quality": "HD",
-    "rating": "0.0",
-    "trailerUrl": "https://watchmovies3.movies4uu.workers.dev/stream/6a734d301dc920c0abad4efa/video-2026-08-05_14-48-19.mp4",
-    "link1080": "",
-    "link720": "https://watchmovies3.movies4uu.workers.dev/stream/6a88733956e08624fce9fc33/Kattalan%20%282026%29%20Malayalam%20HQ%20HDRip%20-%20720p%20-%20HEVC%20-%20x265%20-%20%28DD%2B5.1%20-%20192Kbps%20%26%20AAC%202.0%29%20-%201GB%20-%20ESub.mkv",
-    "link480": "",
-    "subtitles": [],
-    "size1080": "3 GB",
-    "size720": "1.1 GB",
-    "size480": "400 MB",
-    "external_link1080": "",
-    "external_link720": "https://watchmovies3.movies4uu.workers.dev/stream/6a88733956e08624fce9fc33/Kattalan%20%282026%29%20Malayalam%20HQ%20HDRip%20-%20720p%20-%20HEVC%20-%20x265%20-%20%28DD%2B5.1%20-%20192Kbps%20%26%20AAC%202.0%29%20-%201GB%20-%20ESub.mkv",
-    "external_link480": "",
-    "telegram": "https://t.me/M4Upremium_bot?start=BATCH-"
-  },
-  {
     "title": "Gatta Kusthi 2",
     "playerTitle": "Gatta Kusthi 2 (2026) Malayalam Full Movie HD",
     "img": "https://image.tmdb.org/t/p/original/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg",
