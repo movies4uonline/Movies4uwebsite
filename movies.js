@@ -2,8 +2,8 @@
     {
         "title": "Jana Nayagan",
         "img": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADlC10492",
-        "playerTitle": "",
-        "tvLandscape": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADlC10492",
+        "playerTitle": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADlC10492",
+        "tvLandscape": "",
         "year": "2026",
         "rating": "8.5",
         "lang": "Malayalam",
@@ -24,6 +24,6 @@
         "trailerUrl": "",
         "isSeries": false,
         "episodesJson": "",
-        "timestamp": -1788190058958
+        "timestamp": -1788191494147
     }
 ]
