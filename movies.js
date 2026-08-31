@@ -1,1 +1,29 @@
-[]
+[
+    {
+        "title": "Balan: The Boy",
+        "img": "https:\/\/image.tmdb.org\/t\/p\/original\/7H0KRnM0aZS5BHjoZBxriitYSvJ.jpg",
+        "playerTitle": "Balan: The Boy (2026) Malayalam Full Movie HD",
+        "tvLandscape": "https:\/\/i.ibb.co\/Ps3jzGwG\/et00502388-aznzubcuel-landscape.jpg",
+        "year": "2026",
+        "rating": "8.2",
+        "lang": "Malayalam",
+        "quality": "HD",
+        "duration": "2h 20m",
+        "description": "A teenage boy searches for his missing mother following a turbulent childhood and her subsequent disappearance, exploring his search for closure and the truth about his past.",
+        "url1080": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADiB10507",
+        "url720": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADgx10504",
+        "url480": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgAD6i10503",
+        "extUrl1080": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADiB10507",
+        "extUrl720": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADgx10504",
+        "extUrl480": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgAD6i10503",
+        "telegram": "",
+        "telegram1080": "",
+        "telegram720": "",
+        "telegram480": "",
+        "subtitleUrl": "",
+        "trailerUrl": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADNy10508",
+        "isSeries": false,
+        "episodesJson": "",
+        "timestamp": -1788200779502
+    }
+]
