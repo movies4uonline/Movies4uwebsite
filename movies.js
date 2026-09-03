@@ -50,10 +50,10 @@
         "telegram720": "",
         "telegram480": "",
         "subtitleUrl": "",
-        "trailerUrl": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADFy10651",
+        "trailerUrl": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADby10801",
         "isSeries": false,
         "episodesJson": "",
-        "timestamp": -1788321479128
+        "timestamp": -1788466746448
     },
     {
         "title": "Pluto",
