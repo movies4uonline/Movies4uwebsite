@@ -1,9 +1,9 @@
 {
-    "versionCode": 19,
-    "message": "\"Big Update! 🚀 Unlock the all-new 18+ Exclusive section, enjoy faster streaming, and improved premium features. Update now for a smoother Movies4U experience! 🍿\"",
-    "updateUrl": "https:\/\/upload.app\/download\/movies4u\/com.movies4u.app\/22c8255d26e4dd86d45331598057fc69527819924dac68e830740c66c5f9f58d",
-    "forceUpdate": true,
-    "shareUrl": "https:\/\/upload.app\/download\/movies4u\/com.movies4u.app\/22c8255d26e4dd86d45331598057fc69527819924dac68e830740c66c5f9f58d",
+    "versionCode": 20,
+    "message": "✨ New Update Available (v2.9)!\n\nEnglish:\nPlease update the app to the latest version. After installing the update, kindly perform \"Clear Data\" & \"Clear Cache\" from Phone Settings -> Apps -> Movies4U to remove old cached data and enjoy the new features smoothly.\n\nമലയാളം:\nആപ്പ് അപ്‌ഡേറ്റ് ചെയ്ത ശേഷം പുതിയ ഫീച്ചറുകൾ തടസ്സമില്ലാതെ ലഭിക്കുന്നതിനും പഴയ പ്രശ്നങ്ങൾ മാറുന്നതിനുമായി ഫോൺ Settings -> Apps -> Movies4U എന്നതിൽ പോയി \"Clear Data\" & \"Clear Cache\" ചെയ്യുക.",
+    "updateUrl": "https:\/\/upload.app\/download\/movies4u\/com.movies4u.app\/523dc596ab41694da88e01c49e20f2ad7aed69e1eed008bc62b2ab651d61ffe2",
+    "forceUpdate": false,
+    "shareUrl": "https:\/\/upload.app\/download\/movies4u\/com.movies4u.app\/523dc596ab41694da88e01c49e20f2ad7aed69e1eed008bc62b2ab651d61ffe2",
     "supportUrl": "https:\/\/t.me\/movies4utop24",
     "upiId": "pg717293@oksbi"
 }
