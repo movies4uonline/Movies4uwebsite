@@ -1,9 +1,9 @@
 [
     {
         "title": "Vishwanath & Sons",
-        "img": "https:\/\/image.tmdb.org\/t\/p\/w500\/u12uWdDqpN64oLyM7ylcBhzpo1c.jpg",
+        "img": "https:\/\/image.tmdb.org\/t\/p\/original\/u12uWdDqpN64oLyM7ylcBhzpo1c.jpg",
         "playerTitle": "Vishwanath and Sons (2026) Tamil Full Movie HD",
-        "tvLandscape": "https:\/\/image.tmdb.org\/t\/p\/w1280\/nfNaAiiILjYRc2CKkId1ZfPTtlh.jpg",
+        "tvLandscape": "https:\/\/image.tmdb.org\/t\/p\/original\/nfNaAiiILjYRc2CKkId1ZfPTtlh.jpg",
         "year": "2026",
         "rating": "7.0",
         "lang": "Tamil",
@@ -66,9 +66,9 @@
     },
     {
         "title": "Magic Mushrooms",
-        "img": "https:\/\/image.tmdb.org\/t\/p\/w500\/pKszcXMCZxAut8lkRanpVEJfZLc.jpg",
+        "img": "https:\/\/image.tmdb.org\/t\/p\/original\/pKszcXMCZxAut8lkRanpVEJfZLc.jpg",
         "playerTitle": "Magic Mushrooms (2026) Malayalam Full Movie HD",
-        "tvLandscape": "https:\/\/image.tmdb.org\/t\/p\/w1280\/wDDA4NE8zmadua1hzUt33XHOtLd.jpg",
+        "tvLandscape": "https:\/\/image.tmdb.org\/t\/p\/original\/wDDA4NE8zmadua1hzUt33XHOtLd.jpg",
         "year": "2026",
         "rating": "6.0",
         "lang": "Malayalam",
