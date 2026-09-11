@@ -1,9 +1,9 @@
 {
-    "versionCode": 21,
+    "versionCode": 22,
     "message": "✨ New Update Available (v3)!\n\n\nPlease update the app to the latest version. After installing the update, kindly perform \"Clear Data\" & \"Clear Cache\" from Phone Settings -> Apps -> Movies4U to remove old cached data and enjoy the new features smoothly.\n\n\nആപ്പ് അപ്‌ഡേറ്റ് ചെയ്ത ശേഷം പുതിയ ഫീച്ചറുകൾ തടസ്സമില്ലാതെ ലഭിക്കുന്നതിനും പഴയ പ്രശ്നങ്ങൾ മാറുന്നതിനുമായി ഫോൺ Settings -> Apps -> Movies4U എന്നതിൽ പോയി \"Clear Data\" & \"Clear Cache\" ചെയ്യുക.",
-    "updateUrl": "https:\/\/upload.app\/download\/movies4u\/com.movies4u.app\/c3fe5c2800569f0ee24aab7640bd5268f5672579e602480dd416762c41f523a1",
+    "updateUrl": "https:\/\/upload.app\/download\/movies4u\/com.movies4u.app\/39d76449a81c086aecd3e798a0f9391239e66b93511ab5063b802f2ad58964fe",
     "forceUpdate": true,
-    "shareUrl": "https:\/\/upload.app\/download\/movies4u\/com.movies4u.app\/c3fe5c2800569f0ee24aab7640bd5268f5672579e602480dd416762c41f523a1",
+    "shareUrl": "https:\/\/upload.app\/download\/movies4u\/com.movies4u.app\/39d76449a81c086aecd3e798a0f9391239e66b93511ab5063b802f2ad58964fe",
     "supportUrl": "https:\/\/t.me\/movies4utop24",
     "upiId": "pg717293@oksbi"
 }
