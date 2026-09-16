@@ -1,7 +1,7 @@
 [
     {
         "title": "Vivaah",
-        "img": "https:\/\/image.tmdb.org\/t\/p\/w500\/x0U4ZSi740GBPCBGJvh2k2mA3W8.jpg",
+        "img": "https:\/\/image.tmdb.org\/t\/p\/original\/x0U4ZSi740GBPCBGJvh2k2mA3W8.jpg",
         "playerTitle": "Vivaah (2026) Malayalam Full Movie HD",
         "tvLandscape": "https:\/\/i.ibb.co\/tM6mgJwJ\/et00510232-flznxdtscx-landscape.webp",
         "year": "2026",
@@ -62,7 +62,7 @@
         "trailerUrl": "",
         "isSeries": false,
         "episodesJson": "",
-        "timestamp": -1789594484040
+        "timestamp": -1789594561429
     },
     {
         "title": "Vishwanath & Sons",
