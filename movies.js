@@ -3,7 +3,7 @@
         "title": "Idi Mazha Kaattu",
         "img": "https:\/\/image.tmdb.org\/t\/p\/original\/8d9mNX8qlgo8itjhTkrOvykVMtX.jpg",
         "playerTitle": "Idi Mazha Kaattu (2025) Malayalam Full Movie HD",
-        "tvLandscape": "https:\/\/image.tmdb.org\/t\/p\/w1280null",
+        "tvLandscape": "https:\/\/i.ibb.co\/8n1SMjK7\/maxresdefault-2.jpg",
         "year": "2025",
         "rating": "7.1",
         "lang": "Malayalam",
@@ -62,12 +62,12 @@
         "trailerUrl": "",
         "director": "Ambili S Rengan",
         "studio": "Win Ji Creations",
-        "castJson": "",
+        "castJson": "[{\"name\":\"Chemban Vinod Jose\",\"profile\":\"https:\\\/\\\/image.tmdb.org\\\/t\\\/p\\\/w185\\\/4bCAqhHMcPeoI41Emi4BBSXwZaj.jpg\"},{\"name\":\"Sreenath Bhasi\",\"profile\":\"https:\\\/\\\/image.tmdb.org\\\/t\\\/p\\\/w185\\\/oPsXUtaE0ZslhaGRdtww0ZpMRe7.jpg\"},{\"name\":\"Senthil Krishna Rajamani\",\"profile\":\"https:\\\/\\\/image.tmdb.org\\\/t\\\/p\\\/w185\\\/wXI4Jo8M01YfE3HtUeL1YpM0eFK.jpg\"},{\"name\":\"Sudhi Koppa\",\"profile\":\"https:\\\/\\\/image.tmdb.org\\\/t\\\/p\\\/w185\\\/h1Tvm7G2tuSLef3hCNdBZmBc3pe.jpg\"},{\"name\":\"Saran Jith\",\"profile\":\"https:\\\/\\\/image.tmdb.org\\\/t\\\/p\\\/w185null\"},{\"name\":\"Azees Nedumangad\",\"profile\":\"https:\\\/\\\/image.tmdb.org\\\/t\\\/p\\\/w185\\\/zsPdTjTxeFtwjqG7tIJrFcF45V5.jpg\"},{\"name\":\"Sekhar Menon\",\"profile\":\"https:\\\/\\\/image.tmdb.org\\\/t\\\/p\\\/w185\\\/z7AZ5bYRRoKsAerEIOGcoHuSLPq.jpg\"},{\"name\":\"Priyamvada Krishna\",\"profile\":\"https:\\\/\\\/image.tmdb.org\\\/t\\\/p\\\/w185\\\/eyv97gUuS5SxJYLcK9s01wgxPXI.jpg\"},{\"name\":\"Puja Deb\",\"profile\":\"https:\\\/\\\/image.tmdb.org\\\/t\\\/p\\\/w185\\\/n2SqKPM7xxiFEpcSYr5Mk5qEDjs.jpg\"},{\"name\":\"Geethi Sangeetha\",\"profile\":\"https:\\\/\\\/image.tmdb.org\\\/t\\\/p\\\/w185\\\/jk1CaJgJ8dy0Ku817Ppm7s4I4wU.jpg\"},{\"name\":\"Shiva Hariharan\",\"profile\":\"https:\\\/\\\/image.tmdb.org\\\/t\\\/p\\\/w185\\\/jbfqEgcI2foZSTkO40i9nr4v780.jpg\"},{\"name\":\"Ajisha Prabhakaran\",\"profile\":\"https:\\\/\\\/image.tmdb.org\\\/t\\\/p\\\/w185\\\/v9DWVyfhVOFeKTzuQbkto55N6WZ.jpg\"}]",
         "genre": "Action, Thriller",
-        "tmdbId": "",
+        "tmdbId": "1415460",
         "isSeries": false,
         "episodesJson": "",
-        "timestamp": -1790000002009
+        "timestamp": -1790108921349
     },
     {
         "title": "Magudam.",
