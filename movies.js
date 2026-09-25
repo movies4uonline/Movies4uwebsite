@@ -13,8 +13,8 @@
         "cast": "Nani, Mohan Babu, Kayadu Lohar, Sonali Kulkarni, Raghav Juyal",
         "url1080Free": "",
         "url1080Prem": "",
-        "url720Free": "https:\/\/watchmovies.movies4uu.workers.dev\/dl\/6ab6e84f1e812addee0f59a0\/The%20Paradise%20%282026%29%20Tamil%20HQ%20PreDVD%20-%20720p%20-%20x264%20-%20HQ%20Clean%20-%20AAC%20-%201GB.mkv",
-        "url720Prem": "https:\/\/watchmovies.movies4uu.workers.dev\/dl\/6ab6e84f1e812addee0f59a0\/The%20Paradise%20%282026%29%20Tamil%20HQ%20PreDVD%20-%20720p%20-%20x264%20-%20HQ%20Clean%20-%20AAC%20-%201GB.mkv",
+        "url720Free": "https:\/\/watchmovies3.movies4uu.workers.dev\/dl\/6ab6e84f1e812addee0f59a0\/The%20Paradise%20%282026%29%20Tamil%20HQ%20PreDVD%20-%20720p%20-%20x264%20-%20HQ%20Clean%20-%20AAC%20-%201GB.mkv",
+        "url720Prem": "https:\/\/watchmovies3.movies4uu.workers.dev\/dl\/6ab6e84f1e812addee0f59a0\/The%20Paradise%20%282026%29%20Tamil%20HQ%20PreDVD%20-%20720p%20-%20x264%20-%20HQ%20Clean%20-%20AAC%20-%201GB.mkv",
         "url480Free": "",
         "url480Prem": "",
         "url4kFree": "",
@@ -29,8 +29,8 @@
         "telegram480": "",
         "telegram4k": "",
         "dl1Title": "The Paradise (2026) Tamil HQ PreDVD - 720p - x264 - HQ Clean - AAC - 1GB",
-        "dl1FreeUrl": "https:\/\/watchmovies.movies4uu.workers.dev\/dl\/6ab6e84f1e812addee0f59a0\/The%20Paradise%20%282026%29%20Tamil%20HQ%20PreDVD%20-%20720p%20-%20x264%20-%20HQ%20Clean%20-%20AAC%20-%201GB.mkv",
-        "dl1PremUrl": "https:\/\/watchmovies.movies4uu.workers.dev\/dl\/6ab6e84f1e812addee0f59a0\/The%20Paradise%20%282026%29%20Tamil%20HQ%20PreDVD%20-%20720p%20-%20x264%20-%20HQ%20Clean%20-%20AAC%20-%201GB.mkv",
+        "dl1FreeUrl": "https:\/\/watchmovies3.movies4uu.workers.dev\/dl\/6ab6e84f1e812addee0f59a0\/The%20Paradise%20%282026%29%20Tamil%20HQ%20PreDVD%20-%20720p%20-%20x264%20-%20HQ%20Clean%20-%20AAC%20-%201GB.mkv",
+        "dl1PremUrl": "https:\/\/watchmovies3.movies4uu.workers.dev\/dl\/6ab6e84f1e812addee0f59a0\/The%20Paradise%20%282026%29%20Tamil%20HQ%20PreDVD%20-%20720p%20-%20x264%20-%20HQ%20Clean%20-%20AAC%20-%201GB.mkv",
         "dl2Title": "",
         "dl2FreeUrl": "",
         "dl2PremUrl": "",
@@ -67,7 +67,7 @@
         "tmdbId": "",
         "isSeries": false,
         "episodesJson": "",
-        "timestamp": -1790372624318
+        "timestamp": -1790372903475
     },
     {
         "title": "Abhirami",
