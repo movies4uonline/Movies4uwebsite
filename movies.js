@@ -1,7 +1,7 @@
 [
     {
         "title": "Abhirami",
-        "img": "https:\/\/image.tmdb.org\/t\/p\/original\/1Ieyyku6T53QnQpg4LJmivoQk78.jpg",
+        "img": "https:\/\/i.ibb.co\/V0GxNTtH\/movie-1000x1500-thumbnail-512n9j20nr5.webp",
         "playerTitle": "Abhirami (2024) Malayalam Full Movie HD",
         "tvLandscape": "https:\/\/i.ibb.co\/2YgGcXMG\/110383389.webp",
         "year": "2024",
@@ -67,7 +67,7 @@
         "tmdbId": "",
         "isSeries": false,
         "episodesJson": "",
-        "timestamp": -1790368951717
+        "timestamp": -1790369217366
     },
     {
         "title": "Hi!.",
