@@ -1,7 +1,7 @@
 [
     {
         "title": "Abhirami",
-        "img": "https:\/\/image.tmdb.org\/t\/p\/w500\/1Ieyyku6T53QnQpg4LJmivoQk78.jpg",
+        "img": "https:\/\/image.tmdb.org\/t\/p\/original\/1Ieyyku6T53QnQpg4LJmivoQk78.jpg",
         "playerTitle": "Abhirami (2024) Malayalam Full Movie HD",
         "tvLandscape": "https:\/\/i.ibb.co\/2YgGcXMG\/110383389.webp",
         "year": "2024",
@@ -11,8 +11,8 @@
         "duration": "1h 45m",
         "description": "Story about a young lady who lives in Dubai working as a nurse. She is very active on social media platforms. She becomes viral after a post on her social media account.",
         "cast": "Gayathri Suresh, Roshan Basheer, Harikrishnan, Naveen Illath, Ameya Mathew, Sarah Cyriac, Ashraf Kalaparambil, Madhu Karuvath",
-        "url1080Free": "",
-        "url1080Prem": "",
+        "url1080Free": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADbS12094",
+        "url1080Prem": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADbS12094",
         "url720Free": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADai12093",
         "url720Prem": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADai12093",
         "url480Free": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADZy12091",
@@ -28,9 +28,9 @@
         "telegram720": "",
         "telegram480": "",
         "telegram4k": "",
-        "dl1Title": "",
-        "dl1FreeUrl": "",
-        "dl1PremUrl": "",
+        "dl1Title": "Abhirami (2025) Malayalam HQ HDRip - 1080p - x264 - (DD+5.1 - 384Kbps & AAC 2.0) - 2GB - ESub",
+        "dl1FreeUrl": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADbS12094",
+        "dl1PremUrl": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADbS12094",
         "dl2Title": "Abhirami (2025) Malayalam HQ HDRip - 720p - x264 - (DD+5.1 - 192Kbps & AAC 2.0) - 1.1GB - ESub",
         "dl2FreeUrl": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADai12093",
         "dl2PremUrl": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADai12093",
@@ -64,10 +64,10 @@
         "studio": "",
         "castJson": "[]",
         "genre": "Comedy, Drama, Thriller",
-        "tmdbId": "1780082",
+        "tmdbId": "",
         "isSeries": false,
         "episodesJson": "",
-        "timestamp": -1790368641790
+        "timestamp": -1790368951717
     },
     {
         "title": "Hi!.",
