@@ -1,7 +1,7 @@
 [
     {
         "title": "Sardar 2",
-        "img": "https:\/\/image.tmdb.org\/t\/p\/Original\/muGsRtsNrG1gnlF2fPYrBa4TGlr.jpg",
+        "img": "https:\/\/image.tmdb.org\/t\/p\/original\/5VVbBqxpIhWkIhhSjpA8r8ESiVN.jpg",
         "playerTitle": "Sardar 2 (2026) [Hindi + Malayalam + Kannada] Full Movie HD",
         "tvLandscape": "https:\/\/image.tmdb.org\/t\/p\/original\/6ciSx8ZUk4BYIhiSmwtDHHsOtyP.jpg",
         "year": "2026",
@@ -67,7 +67,7 @@
         "tmdbId": "",
         "isSeries": false,
         "episodesJson": "",
-        "timestamp": -1791041827750
+        "timestamp": -1791041993494
     },
     {
         "title": "Bethlehem Kudumba Unit",
