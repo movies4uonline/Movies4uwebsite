@@ -6,7 +6,7 @@
         "tvLandscape": "https:\/\/image.tmdb.org\/t\/p\/original\/6ciSx8ZUk4BYIhiSmwtDHHsOtyP.jpg",
         "year": "2026",
         "rating": "5.8",
-        "lang": "ഹിന്ദി, Malayalam, Kannada",
+        "lang": "Hindi, Malayalam, Kannada",
         "quality": "HD",
         "duration": "2h 59m",
         "description": "When the mysterious Black Dagger threatens national security, Inspector Vijay embarks on his most dangerous mission yet. As the battle unfolds, the extraordinary origin of legendary spy Sardar is finally revealed, uncovering the sacrifices that forged a legend and the secrets that could shape the future.",
@@ -67,7 +67,7 @@
         "tmdbId": "",
         "isSeries": false,
         "episodesJson": "",
-        "timestamp": -1791041726407
+        "timestamp": -1791041827750
     },
     {
         "title": "Bethlehem Kudumba Unit",
