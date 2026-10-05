@@ -7,8 +7,8 @@
     "supportUrl": "https:\/\/t.me\/movies4utop24",
     "upiId": "pg717293@oksbi",
     "unityGameId": "800383240",
-    "unityBannerId": "Banner_Android",
-    "unityInterstitialId": "Interstitial_Android",
-    "unityRewardedId": "Rewarded_Android",
-    "unityTestMode": true
+    "unityBannerId": "BP_Banner_Android",
+    "unityInterstitialId": "BP_Interstitial_Android",
+    "unityRewardedId": "BP_Rewarded_Android",
+    "unityTestMode": false
 }
