@@ -10,5 +10,5 @@
     "unityBannerId": "BP_Banner_Android",
     "unityInterstitialId": "BP_Interstitial_Android",
     "unityRewardedId": "BP_Rewarded_Android",
-    "unityTestMode": false
+    "unityTestMode": true
 }
