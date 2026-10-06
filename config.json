@@ -6,5 +6,9 @@
     "shareUrl": "https:\/\/upload.app\/download\/movies4u\/com.movies4u.app\/a42d63f2c03987c1890bb281ff43448af95e798cd8b5123fd3eb83ff42b6362e",
     "supportUrl": "https:\/\/t.me\/movies4utop24",
     "upiId": "pg717293@oksbi",
-    "startAppId": "209855661"
+    "startAppId": "209855661",
+    "monthlyAmount": "2.00",
+    "monthlyCoins": 100,
+    "yearlyAmount": "100.00",
+    "yearlyCoins": 1000
 }
