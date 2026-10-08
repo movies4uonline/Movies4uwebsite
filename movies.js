@@ -11,8 +11,8 @@
         "duration": "2h 33m",
         "description": "A fishing captain applies his maritime knowledge in a traditional boat race along Tamil Nadu's coast during a festival, leading a six-person team against other crews.",
         "cast": "Soori, Suhas, Mahima Nambiar, Sathyaraj, Mithun Jai Sankar",
-        "url1080Free": "",
-        "url1080Prem": "",
+        "url1080Free": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADai12217",
+        "url1080Prem": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADai12217",
         "url720Free": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADXC12216",
         "url720Prem": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADXC12216",
         "url480Free": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADVy12215",
@@ -28,9 +28,9 @@
         "telegram720": "",
         "telegram480": "",
         "telegram4k": "",
-        "dl1Title": "",
-        "dl1FreeUrl": "",
-        "dl1PremUrl": "",
+        "dl1Title": "Mandaadi (2026) HQ HDRip - 1080p - x264 - [Hindi + Malayalam + Kannada] - (DD+5.1 - 192Kbps) - 3.1GB - ESub",
+        "dl1FreeUrl": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADai12217",
+        "dl1PremUrl": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADai12217",
         "dl2Title": "Mandaadi (2026) HQ HDRip - 720p - x264 - [Hindi + Malayalam + Kannada] - (DD+5.1 - 192Kbps) - 2GB - ESub",
         "dl2FreeUrl": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADXC12216",
         "dl2PremUrl": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADXC12216",
@@ -67,7 +67,7 @@
         "tmdbId": "",
         "isSeries": false,
         "episodesJson": "",
-        "timestamp": -1791425839084
+        "timestamp": -1791427846081
     },
     {
         "title": "Insidious: Out of the Further",
