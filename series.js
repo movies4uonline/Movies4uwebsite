@@ -67,7 +67,7 @@
         "tmdbId": "",
         "isSeries": true,
         "episodesJson": "[{\"name\":\"Episode 1: The House of Secrets\",\"url1080\":\"https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADZi12270\",\"url720\":\"https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADZi12270\",\"url480\":\"https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADZi12270\"},{\"name\":\"Episode 2: Shattered Joy\",\"url1080\":\"\",\"url720\":\"\",\"url480\":\"\"},{\"name\":\"Episode 3: Birth of a Curse\",\"url1080\":\"\",\"url720\":\"\",\"url480\":\"\"},{\"name\":\"Episode 4: The Village in Fear\",\"url1080\":\"\",\"url720\":\"\",\"url480\":\"\"},{\"name\":\"Episode 5: Truth Unleashed\",\"url1080\":\"\",\"url720\":\"\",\"url480\":\"\"},{\"name\":\"Episode 6: A Mother’s Choice\",\"url1080\":\"\",\"url720\":\"\",\"url480\":\"https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADZi12270\"}]",
-        "timestamp": -1792074560327
+        "timestamp": -1792075166805
     },
     {
         "title": "Tamusiland mit Detlev Jöcker",
