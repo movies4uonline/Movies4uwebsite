@@ -2,7 +2,7 @@
     {
         "title": "It's a Medical Miracle",
         "img": "https:\/\/image.tmdb.org\/t\/p\/original\/ymlqg5qqwzAC74IXi2smf8OZeN7.jpg",
-        "playerTitle": "",
+        "playerTitle": "It's a Medical Miracle (2026) Malayalam Full Movie HD",
         "tvLandscape": "https:\/\/i.ibb.co\/XZQ6vM6x\/et00515245-hunvwzujtg-landscape.webp",
         "year": "2026",
         "rating": "6.2",
@@ -62,12 +62,12 @@
         "trailerUrl": "",
         "director": "Shyamin Gireesh, Albin Shaji, Shafeek Muhammed",
         "studio": "Dr. Pauls Entertainment",
-        "castJson": "",
+        "castJson": "[{\"name\":\"Sangeeth Prathap\",\"profile\":\"https:\\\/\\\/image.tmdb.org\\\/t\\\/p\\\/w185\\\/2f7mTmZ1RttbacuADm6vv7xpTAi.jpg\"},{\"name\":\"Sharafudheen\",\"profile\":\"https:\\\/\\\/image.tmdb.org\\\/t\\\/p\\\/w185\\\/icEHwPLrRp2sAk3gzylO8ar4Hey.jpg\"},{\"name\":\"Akhila Bhargavan\",\"profile\":\"https:\\\/\\\/image.tmdb.org\\\/t\\\/p\\\/w185\\\/dGaNyhTvnotJpqxmRLXCqIfKGjC.jpg\"},{\"name\":\"Anand Manmadhan\",\"profile\":\"https:\\\/\\\/image.tmdb.org\\\/t\\\/p\\\/w185\\\/xlx9Rmb3NGHNX7VFGD55kskCM04.jpg\"},{\"name\":\"Kiran Peethambaran\",\"profile\":\"https:\\\/\\\/image.tmdb.org\\\/t\\\/p\\\/w185\\\/qbfH2hMSspS1PWVNRQP2xa2buWK.jpg\"},{\"name\":\"Parvathy Krishna\",\"profile\":\"https:\\\/\\\/image.tmdb.org\\\/t\\\/p\\\/w185\\\/69Y1vWqHkDFlYe92kGNb7fmIMeG.jpg\"},{\"name\":\"Kottayam Nazeer\",\"profile\":\"https:\\\/\\\/image.tmdb.org\\\/t\\\/p\\\/w185\\\/vN0cHxgDIE5DKUeL2F0nmIhTIoZ.jpg\"},{\"name\":\"Nileen Sandra\",\"profile\":\"https:\\\/\\\/image.tmdb.org\\\/t\\\/p\\\/w185\\\/wNvwgBEofXZT0qAJn61gKenpYC2.jpg\"},{\"name\":\"Zhinz Shan\",\"profile\":\"https:\\\/\\\/image.tmdb.org\\\/t\\\/p\\\/w185\\\/e2qrMKWAS01rpA2kl89UUz4VyBt.jpg\"},{\"name\":\"Hezzah Mehak\",\"profile\":\"https:\\\/\\\/image.tmdb.org\\\/t\\\/p\\\/w185null\"},{\"name\":\"Amith Mohan Rajeswari\",\"profile\":\"https:\\\/\\\/image.tmdb.org\\\/t\\\/p\\\/w185\\\/x64tksObwq5TlKZ2pZmDawMwAq4.jpg\"}]",
         "genre": "Fantasy, Thriller",
-        "tmdbId": "",
+        "tmdbId": "1422822",
         "isSeries": false,
         "episodesJson": "",
-        "timestamp": -1792033359968
+        "timestamp": -1792033449729
     },
     {
         "title": "Matchbox the Movie",
