@@ -2,7 +2,7 @@
     {
         "title": "Tamusiland mit Detlev Jöcker",
         "img": "https:\/\/image.tmdb.org\/t\/p\/w500null",
-        "playerTitle": "",
+        "playerTitle": "hdjdjdjdjd",
         "tvLandscape": "https:\/\/image.tmdb.org\/t\/p\/w1280null",
         "year": "2010",
         "rating": "0.0",
@@ -66,8 +66,8 @@
         "genre": "Kids",
         "tmdbId": "253974",
         "isSeries": true,
-        "episodesJson": "[{\"name\":\"Episode 1: Episode 1\",\"url1080\":\"\",\"url720\":\"\",\"url480\":\"\"},{\"name\":\"Episode 2: Episode 2\",\"url1080\":\"\",\"url720\":\"\",\"url480\":\"\"},{\"name\":\"Episode 3: Episode 3\",\"url1080\":\"\",\"url720\":\"\",\"url480\":\"\"},{\"name\":\"Episode 4: Episode 4\",\"url1080\":\"\",\"url720\":\"\",\"url480\":\"\"},{\"name\":\"Episode 5: Episode 5\",\"url1080\":\"\",\"url720\":\"\",\"url480\":\"\"},{\"name\":\"Episode 6: Episode 6\",\"url1080\":\"\",\"url720\":\"\",\"url480\":\"\"},{\"name\":\"Episode 7: Episode 7\",\"url1080\":\"\",\"url720\":\"\",\"url480\":\"\"},{\"name\":\"Episode 8: Episode 8\",\"url1080\":\"\",\"url720\":\"\",\"url480\":\"\"},{\"name\":\"Episode 9: Episode 9\",\"url1080\":\"\",\"url720\":\"\",\"url480\":\"\"},{\"name\":\"Episode 10: Episode 10\",\"url1080\":\"\",\"url720\":\"\",\"url480\":\"\"},{\"name\":\"Episode 11: Episode 11\",\"url1080\":\"\",\"url720\":\"\",\"url480\":\"\"},{\"name\":\"Episode 12: Episode 12\",\"url1080\":\"\",\"url720\":\"\",\"url480\":\"\"},{\"name\":\"Episode 13: Episode 13\",\"url1080\":\"\",\"url720\":\"\",\"url480\":\"\"},{\"name\":\"Episode 14: Episode 14\",\"url1080\":\"\",\"url720\":\"\",\"url480\":\"\"},{\"name\":\"Episode 15: Episode 15\",\"url1080\":\"\",\"url720\":\"\",\"url480\":\"\"}]",
-        "timestamp": -1791945176083
+        "episodesJson": "[{\"name\":\"Episode 1: Episode 1\",\"url1080\":\"\",\"url720\":\"\",\"url480\":\"https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADZi12270\"},{\"name\":\"Episode 2: Episode 2\",\"url1080\":\"\",\"url720\":\"\",\"url480\":\"https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADZi12270\"},{\"name\":\"Episode 3: Episode 3\",\"url1080\":\"\",\"url720\":\"\",\"url480\":\"\"},{\"name\":\"Episode 4: Episode 4\",\"url1080\":\"\",\"url720\":\"\",\"url480\":\"\"},{\"name\":\"Episode 5: Episode 5\",\"url1080\":\"\",\"url720\":\"\",\"url480\":\"\"},{\"name\":\"Episode 6: Episode 6\",\"url1080\":\"\",\"url720\":\"\",\"url480\":\"\"},{\"name\":\"Episode 7: Episode 7\",\"url1080\":\"\",\"url720\":\"\",\"url480\":\"\"},{\"name\":\"Episode 8: Episode 8\",\"url1080\":\"\",\"url720\":\"\",\"url480\":\"\"},{\"name\":\"Episode 9: Episode 9\",\"url1080\":\"\",\"url720\":\"\",\"url480\":\"\"},{\"name\":\"Episode 10: Episode 10\",\"url1080\":\"\",\"url720\":\"\",\"url480\":\"\"},{\"name\":\"Episode 11: Episode 11\",\"url1080\":\"\",\"url720\":\"\",\"url480\":\"\"},{\"name\":\"Episode 12: Episode 12\",\"url1080\":\"\",\"url720\":\"\",\"url480\":\"\"},{\"name\":\"Episode 13: Episode 13\",\"url1080\":\"\",\"url720\":\"\",\"url480\":\"\"},{\"name\":\"Episode 14: Episode 14\",\"url1080\":\"\",\"url720\":\"\",\"url480\":\"\"},{\"name\":\"Episode 15: Episode 15\",\"url1080\":\"\",\"url720\":\"\",\"url480\":\"\"}]",
+        "timestamp": -1792073713892
     }
 ]
 
