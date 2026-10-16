@@ -66,7 +66,7 @@
         "genre": "Mystery",
         "tmdbId": "",
         "isSeries": true,
-        "episodesJson": "[{\"name\":\"Episode 3\",\"season\":1,\"episodeNumber\":3,\"url1080\":\"\",\"url720\":\"\",\"url480\":\"\"},{\"name\":\"hhdjdj\",\"season\":1,\"episodeNumber\":1,\"url1080\":\"https:\\\/\\\/watchmovies1.movies4uu.workers.dev\\\/dl\\\/AgADZi12270\",\"url720\":\"https:\\\/\\\/watchmovies1.movies4uu.workers.dev\\\/dl\\\/AgADZi12270\",\"url480\":\"https:\\\/\\\/watchmovies1.movies4uu.workers.dev\\\/dl\\\/AgADZi12270\"},{\"name\":\"jjdkd\",\"season\":1,\"episodeNumber\":2,\"url1080\":\"https:\\\/\\\/watchmovies1.movies4uu.workers.dev\\\/dl\\\/AgADZi12270\",\"url720\":\"https:\\\/\\\/watchmovies1.movies4uu.workers.dev\\\/dl\\\/AgADZi12270\",\"url480\":\"https:\\\/\\\/watchmovies1.movies4uu.workers.dev\\\/dl\\\/AgADZi12270\"}]",
-        "timestamp": -1792089280192
+        "episodesJson": "[{\"name\":\"Episode 3\",\"season\":1,\"episodeNumber\":3,\"url1080\":\"\",\"url720\":\"\",\"url480\":\"\"},{\"name\":\"hhdjdj\",\"season\":1,\"episodeNumber\":1,\"url1080\":\"https:\\\/\\\/watchmovies1.movies4uu.workers.dev\\\/dl\\\/AgADZi12270\",\"url720\":\"https:\\\/\\\/watchmovies1.movies4uu.workers.dev\\\/dl\\\/AgADZi12270\",\"url480\":\"https:\\\/\\\/watchmovies1.movies4uu.workers.dev\\\/dl\\\/AgADZi12270\"},{\"name\":\"jjdkd\",\"season\":1,\"episodeNumber\":2,\"url1080\":\"https:\\\/\\\/watchmovies1.movies4uu.workers.dev\\\/dl\\\/AgADZi12270\",\"url720\":\"https:\\\/\\\/watchmovies1.movies4uu.workers.dev\\\/dl\\\/AgADZi12270\",\"url480\":\"https:\\\/\\\/watchmovies1.movies4uu.workers.dev\\\/dl\\\/AgADZi12270\"},{\"name\":\"hjkkk\",\"season\":2,\"episodeNumber\":1,\"url1080\":\"\",\"url720\":\"https:\\\/\\\/watchmovies1.movies4uu.workers.dev\\\/dl\\\/AgADUj12279\",\"url480\":\"https:\\\/\\\/watchmovies1.movies4uu.workers.dev\\\/dl\\\/AgADUj12279\"}]",
+        "timestamp": -1792116283063
     }
 ]
