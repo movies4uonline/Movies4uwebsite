@@ -1,7 +1,7 @@
 [
     {
         "title": "Jailer 2",
-        "img": "https:\/\/image.tmdb.org\/t\/p\/original\/yoO8XxsB6GroQRXIVwKzbZJSgrc.jpg",
+        "img": "https:\/\/image.tmdb.org\/t\/p\/original\/wNzUu8B9MOfDAE40LVbq4nq2Lso.jpg",
         "playerTitle": "Jailer 2 (2026) Tamil Full Movie HD",
         "tvLandscape": "https:\/\/image.tmdb.org\/t\/p\/original\/yoO8XxsB6GroQRXIVwKzbZJSgrc.jpg",
         "year": "2026",
@@ -67,7 +67,7 @@
         "tmdbId": "",
         "isSeries": false,
         "episodesJson": "",
-        "timestamp": -1792157913896
+        "timestamp": -1792158059574
     },
     {
         "title": "Aasha",
