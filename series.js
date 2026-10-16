@@ -6,7 +6,7 @@
         "tvLandscape": "https:\/\/image.tmdb.org\/t\/p\/original\/9jwfNI5P95kadt3HNQxIbftSg4N.jpg",
         "year": "2026",
         "rating": "10.0",
-        "lang": "Malayalam",
+        "lang": "Tamil, Telugu, Malayalam",
         "quality": "HD",
         "duration": "",
         "description": "Tina Sebastian, a police officer investigates disturbing cases involving women. As the investigation progresses, mental health professionals join forces with the police to understand the psychology of stalkers, identify warning signs and prevent situations from escalating.",
@@ -67,6 +67,6 @@
         "tmdbId": "",
         "isSeries": true,
         "episodesJson": "[{\"name\":\"Eyes (2026) S01 EP01 TRUE WEB-DL - 480p - AVC - UNTOUCHED - [Tamil + Telugu + Malayalam] - (AAC 2.0) - 190MB - ESub\",\"season\":1,\"episodeNumber\":1,\"url1080\":\"\",\"url720\":\"\",\"url480\":\"https:\\\/\\\/watchmovies1.movies4uu.workers.dev\\\/dl\\\/AgADVD12283\"},{\"name\":\"Eyes (2026) S01 EP02 TRUE WEB-DL - 480p - AVC - UNTOUCHED - [Tamil + Telugu + Malayalam] - (AAC 2.0) - 190MB - ESub\",\"season\":1,\"episodeNumber\":2,\"url1080\":\"\",\"url720\":\"\",\"url480\":\"https:\\\/\\\/watchmovies1.movies4uu.workers.dev\\\/dl\\\/AgADVT12284\"},{\"name\":\"Eyes (2026) S01 EP03 TRUE WEB-DL - 480p - AVC - UNTOUCHED - [Tamil + Telugu + Malayalam] - (AAC 2.0) - 180MB - ESub\",\"season\":1,\"episodeNumber\":3,\"url1080\":\"\",\"url720\":\"\",\"url480\":\"https:\\\/\\\/watchmovies1.movies4uu.workers.dev\\\/dl\\\/AgADVz12285\"},{\"name\":\"Eyes (2026) S01 EP04 TRUE WEB-DL - 480p - AVC - UNTOUCHED - [Tamil + Telugu + Malayalam] - (AAC 2.0) - 170MB - ESub\",\"season\":1,\"episodeNumber\":4,\"url1080\":\"\",\"url720\":\"\",\"url480\":\"https:\\\/\\\/watchmovies1.movies4uu.workers.dev\\\/dl\\\/AgADWD12286\"},{\"name\":\"Eyes (2026) S01 EP05 TRUE WEB-DL - 480p - AVC - UNTOUCHED - [Tamil + Telugu + Malayalam] - (AAC 2.0) - 180MB - ESub\",\"season\":1,\"episodeNumber\":5,\"url1080\":\"\",\"url720\":\"\",\"url480\":\"https:\\\/\\\/watchmovies1.movies4uu.workers.dev\\\/dl\\\/AgADWT12287\"},{\"name\":\"Eyes (2026) S01 EP06 TRUE WEB-DL - 480p - AVC - UNTOUCHED - [Tamil + Telugu + Malayalam] - (AAC 2.0) - 160MB - ESub\",\"season\":1,\"episodeNumber\":6,\"url1080\":\"\",\"url720\":\"\",\"url480\":\"https:\\\/\\\/watchmovies1.movies4uu.workers.dev\\\/dl\\\/AgADWj12288\"},{\"name\":\"Eyes (2026) S01 EP07 TRUE WEB-DL - 480p - AVC - UNTOUCHED - [Tamil + Telugu + Malayalam] - (AAC 2.0) - 150MB - ESub\",\"season\":1,\"episodeNumber\":7,\"url1080\":\"\",\"url720\":\"\",\"url480\":\"https:\\\/\\\/watchmovies1.movies4uu.workers.dev\\\/dl\\\/AgADWz12289\"}]",
-        "timestamp": -1792151384734
+        "timestamp": -1792156311657
     }
 ]
