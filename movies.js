@@ -3,9 +3,9 @@
         "title": "Adinaasam Vellapokkam",
         "img": "https:\/\/image.tmdb.org\/t\/p\/original\/rI7Yu92YOdukaaKopASwipGLcXD.jpg",
         "playerTitle": "Adinaasam Vellapokkam (2025) Malayalam Full Movie HD",
-        "tvLandscape": "https:\/\/image.tmdb.org\/t\/p\/w1280\/wSrFXvII1UkkyLq8WmT96r49z4J.jpg",
+        "tvLandscape": "https:\/\/i.ibb.co\/hJfnC3hj\/et00475053-bdxnhhzlam-landscape.webp",
         "year": "2025",
-        "rating": "0.0",
+        "rating": "8.9",
         "lang": "Malayalam",
         "quality": "HD",
         "duration": "2h 6m",
@@ -64,10 +64,10 @@
         "studio": "Surya Bharathy Creations",
         "castJson": "[{\"name\":\"Shine Tom Chacko\",\"profile\":\"https:\\\/\\\/image.tmdb.org\\\/t\\\/p\\\/w185\\\/lIfhgkTK8bgM5jS2R91ZvCxKIwj.jpg\"},{\"name\":\"Baiju Santhosh\",\"profile\":\"https:\\\/\\\/image.tmdb.org\\\/t\\\/p\\\/w185\\\/mAGYsgiYZ5A3B24jx5PZdibN87I.jpg\"},{\"name\":\"Manju Pillai\",\"profile\":\"https:\\\/\\\/image.tmdb.org\\\/t\\\/p\\\/w185\\\/8f6ieQcvTM1Mi28SWG2HnXz2a4q.jpg\"},{\"name\":\"Babu Antony\",\"profile\":\"https:\\\/\\\/image.tmdb.org\\\/t\\\/p\\\/w185\\\/yaT3I5xf8XG806Or6sOMPMPOUVD.jpg\"},{\"name\":\"John Vijay\",\"profile\":\"https:\\\/\\\/image.tmdb.org\\\/t\\\/p\\\/w185\\\/1H4uUEI32DmZWfTGmWnXyu0BrU7.jpg\"},{\"name\":\"Ashokan\",\"profile\":\"https:\\\/\\\/image.tmdb.org\\\/t\\\/p\\\/w185\\\/xtluHzXM8msExrEHUYOEAiYmEqK.jpg\"},{\"name\":\"Prem Kumar\",\"profile\":\"https:\\\/\\\/image.tmdb.org\\\/t\\\/p\\\/w185\\\/r4LRf7C8YUKpOwqf5cHxhLoPBcJ.jpg\"},{\"name\":\"Sreekanth Vettiyar\",\"profile\":\"https:\\\/\\\/image.tmdb.org\\\/t\\\/p\\\/w185null\"},{\"name\":\"Vineeth Mohan\",\"profile\":\"https:\\\/\\\/image.tmdb.org\\\/t\\\/p\\\/w185\\\/rGIaPSEGIekSmtCEmMrTpymcIZ3.jpg\"},{\"name\":\"Raj Kiran Thomas\",\"profile\":\"https:\\\/\\\/image.tmdb.org\\\/t\\\/p\\\/w185null\"},{\"name\":\"Sajith Thomas\",\"profile\":\"https:\\\/\\\/image.tmdb.org\\\/t\\\/p\\\/w185null\"},{\"name\":\"Sanjay Thomas\",\"profile\":\"https:\\\/\\\/image.tmdb.org\\\/t\\\/p\\\/w185null\"}]",
         "genre": "Comedy",
-        "tmdbId": "1593963",
+        "tmdbId": "",
         "isSeries": false,
         "episodesJson": "",
-        "timestamp": -1792423911394
+        "timestamp": -1792465536261
     },
     {
         "title": "Jailer 2",
