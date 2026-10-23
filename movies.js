@@ -28,9 +28,9 @@
         "telegram720": "",
         "telegram480": "",
         "telegram4k": "",
-        "dl1Title": "",
-        "dl1FreeUrl": "",
-        "dl1PremUrl": "",
+        "dl1Title": "Dhoomakethu (2026) Malayalam HQ HDRip - 1080p - x264 - (DD+5.1 - 640Kbps & AAC 2.0) - 2.6GB - ESub",
+        "dl1FreeUrl": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADGS12456",
+        "dl1PremUrl": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADGS12456",
         "dl2Title": "Dhoomakethu (2026) Malayalam HQ HDRip - 1080p - HEVC - x265 - (DD+5.1 - 192Kbps & AAC 2.0) - 1.5GB - ESub",
         "dl2FreeUrl": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgAD-C12437",
         "dl2PremUrl": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgAD-C12437",
@@ -67,7 +67,7 @@
         "tmdbId": "",
         "isSeries": false,
         "episodesJson": "",
-        "timestamp": -1792741291782
+        "timestamp": -1792759444620
     },
     {
         "title": "The Paradise",
