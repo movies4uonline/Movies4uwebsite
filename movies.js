@@ -11,8 +11,8 @@
         "duration": "1h 58m",
         "description": "Hetal, a talented wrestler, discovers sumo by chance, but her road to improvement is very steep. Unwilling to give up her dream, she goes to Japan and endures rigorous training. A unique Indian sumo girl movie!",
         "cast": "Shriyam Bhagnani, Chaitanya Sharma, Nitesh Pandey, Anubha Fatehpuria",
-        "url1080Free": "",
-        "url1080Prem": "",
+        "url1080Free": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADXi12460",
+        "url1080Prem": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADXi12460",
         "url720Free": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADHS12459",
         "url720Prem": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADHS12459",
         "url480Free": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgAELQ12457",
@@ -31,9 +31,9 @@
         "dl1Title": "",
         "dl1FreeUrl": "",
         "dl1PremUrl": "",
-        "dl2Title": "",
-        "dl2FreeUrl": "",
-        "dl2PremUrl": "",
+        "dl2Title": "Sumo Didi (2026) Hindi TRUE WEB-DL - 1080p - AVC - UNTOUCHED - (DD+5.1 - 192Kbps & AAC 2.0) - 1.6GB - ESub",
+        "dl2FreeUrl": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADXi12460",
+        "dl2PremUrl": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADXi12460",
         "dl3Title": "Sumo Didi (2026) Hindi HQ HDRip - 720p - x264 - (DD+5.1 - 192Kbps & AAC 2.0) - 1.2GB - ESub",
         "dl3FreeUrl": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADHS12459",
         "dl3PremUrl": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADHS12459",
@@ -67,7 +67,7 @@
         "tmdbId": "",
         "isSeries": false,
         "episodesJson": "",
-        "timestamp": -1792765951161
+        "timestamp": -1792766618600
     },
     {
         "title": "Baththa",
