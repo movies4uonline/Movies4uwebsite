@@ -13,8 +13,8 @@
         "cast": "Vijay Sethupathi, Lijomol Jose, Sai Prithviraj, Sahasra Sree, Santhy Balachandran",
         "url1080Free": "",
         "url1080Prem": "",
-        "url720Free": "",
-        "url720Prem": "",
+        "url720Free": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADdS12462",
+        "url720Prem": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADdS12462",
         "url480Free": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADSS12461",
         "url480Prem": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADSS12461",
         "url4kFree": "",
@@ -34,9 +34,9 @@
         "dl2Title": "",
         "dl2FreeUrl": "",
         "dl2PremUrl": "",
-        "dl3Title": "Baththa (2026) Tamil HDRip - 700MB - x264 - AAC - HC-ESub",
-        "dl3FreeUrl": "",
-        "dl3PremUrl": "",
+        "dl3Title": "Baththa (2026) Tamil HDRip - 720p - x264 - AAC - 1.5GB - HC-ESub",
+        "dl3FreeUrl": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADdS12462",
+        "dl3PremUrl": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADdS12462",
         "dl4Title": "Baththa (2026) Tamil HDRip - 400MB - x264 - AAC - HC-ESub",
         "dl4FreeUrl": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADSS12461",
         "dl4PremUrl": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADSS12461",
@@ -67,7 +67,7 @@
         "tmdbId": "",
         "isSeries": false,
         "episodesJson": "",
-        "timestamp": -1792767577676
+        "timestamp": -1792767865771
     },
     {
         "title": "Sumo Didi",
