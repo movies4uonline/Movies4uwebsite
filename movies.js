@@ -29,8 +29,8 @@
         "telegram480": "",
         "telegram4k": "",
         "dl1Title": "Jailer 2 (2026) Malayalam TRUE WEB-DL - 1080p - AVC - UNTOUCHED - (DD+5.1 - 640Kbps & AAC 2.0) - 3GB - ESub",
-        "dl1FreeUrl": "",
-        "dl1PremUrl": "",
+        "dl1FreeUrl": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADRS14876",
+        "dl1PremUrl": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADRS14876",
         "dl2Title": "Jailer 2 (2026) Malayalam HQ HDRip - 1080p - HEVC - x265 - (DD+5.1 - 192Kbps & AAC 2.0) - 1.6GB - ESub",
         "dl2FreeUrl": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADOC14875",
         "dl2PremUrl": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADOC14875",
@@ -67,7 +67,7 @@
         "tmdbId": "",
         "isSeries": false,
         "episodesJson": "",
-        "timestamp": -1794455914174
+        "timestamp": -1794456120641
     },
     {
         "title": "Meesaya Murukku 2",
