@@ -11,8 +11,8 @@
         "duration": "2h 43m",
         "description": "When a dangerous syndicate expands its reach to threaten his family's peace, retired jailer Tiger Muthuvel Pandian goes undercover as a driver. Operating from the shadows, he takes on ruthless new enemies to protect his home.",
         "cast": "Rajinikanth, S. J. Suryah, Mithun Chakraborty, Suraj Venjaramoodu, Ramya Krishnan",
-        "url1080Free": "",
-        "url1080Prem": "",
+        "url1080Free": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADOC14875",
+        "url1080Prem": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADOC14875",
         "url720Free": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADMC14835",
         "url720Prem": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADMC14835",
         "url480Free": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADRy14839",
@@ -32,8 +32,8 @@
         "dl1FreeUrl": "",
         "dl1PremUrl": "",
         "dl2Title": "Jailer 2 (2026) Malayalam HQ HDRip - 1080p - HEVC - x265 - (DD+5.1 - 192Kbps & AAC 2.0) - 1.6GB - ESub",
-        "dl2FreeUrl": "",
-        "dl2PremUrl": "",
+        "dl2FreeUrl": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADOC14875",
+        "dl2PremUrl": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADOC14875",
         "dl3Title": "Jailer 2 (2026) Malayalam HQ HDRip - 720p - x264 - (DD+5.1 - 192Kbps & AAC 2.0) - 1.4GB - ESub",
         "dl3FreeUrl": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADMS14838",
         "dl3PremUrl": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADMS14838",
@@ -67,7 +67,7 @@
         "tmdbId": "",
         "isSeries": false,
         "episodesJson": "",
-        "timestamp": -1794448132421
+        "timestamp": -1794455914174
     },
     {
         "title": "Meesaya Murukku 2",
