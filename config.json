@@ -14,7 +14,7 @@
     "monthlyCoins": 500,
     "yearlyAmount": "100.00",
     "yearlyCoins": 1000,
-    "withdrawEnabled": false,
+    "withdrawEnabled": true,
     "minWithdrawCoins": 0,
     "withdrawClosedMsg": "Withdrawal is currently paused. Stay tuned for special reward events! 🎉",
     "withdrawTargetTime": 0,
