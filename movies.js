@@ -3,7 +3,7 @@
         "title": "The Third Murder",
         "img": "https:\/\/image.tmdb.org\/t\/p\/original\/jNKwDvLdx81UqY4KVl0KybtSTqo.jpg",
         "playerTitle": "The Third Murder (2026) Malayalam Full Movie HD",
-        "tvLandscape": "https:\/\/image.tmdb.org\/t\/p\/w1280\/7UDUfWg5l3gvwO12yYLrPwGOals.jpg",
+        "tvLandscape": "https:\/\/i.ibb.co\/KjFdX9mS\/et00519754-awbumqzlst-landscape.webp",
         "year": "2026",
         "rating": "0.0",
         "lang": "Malayalam",
@@ -28,9 +28,9 @@
         "telegram720": "",
         "telegram480": "",
         "telegram4k": "",
-        "dl1Title": "",
-        "dl1FreeUrl": "",
-        "dl1PremUrl": "",
+        "dl1Title": "The Third Murder (2026) Malayalam HQ HDRip - 1080p - x264 - (DD+5.1 - 640Kbps & AAC 2.0) - 2.5GB - ESub",
+        "dl1FreeUrl": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADvx15573",
+        "dl1PremUrl": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADvx15573",
         "dl2Title": "The Third Murder (2026) Malayalam HQ HDRip - 1080p - HEVC - x265 - (DD+5.1 - 192Kbps & AAC 2.0) - 1.5GB - ESub",
         "dl2FreeUrl": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADIi15292",
         "dl2PremUrl": "https:\/\/watchmovies1.movies4uu.workers.dev\/dl\/AgADIi15292",
@@ -67,7 +67,7 @@
         "tmdbId": "",
         "isSeries": false,
         "episodesJson": "",
-        "timestamp": -1794587003974
+        "timestamp": -1794728964328
     },
     {
         "title": "Ranabaali",
